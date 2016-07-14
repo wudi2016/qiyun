@@ -1,0 +1,1653 @@
+.posi{
+    width:998px;
+    height:35px;
+    border:1px solid #E1E1E1;
+    margin-bottom:20px;
+    background: #F5F5F5;
+}
+.li_home{
+    width:50px;
+    height:35px;
+    float: left;
+    text-align: right;
+    line-height:35px;
+    background: url(/image/qiyun/icon2.png) 10px -598px;
+    /*background: url('/image/qiyun/icon2.png') 10px -598px;*/
+}
+.li_nxt{
+    width:auto;
+    height:35px;
+    padding:0 10px;
+    line-height:35px;
+    float: left;
+}
+input {
+    font-size: 16px;
+    padding-left: 10px;
+}
+
+select {
+    font-size: 16px;
+    padding-left: 10px;
+}
+
+select option {
+    padding-left: 10px;
+}
+
+.main_list {
+    margin: 0 auto;
+    text-align: center;
+    width: 1300px;
+    height: 1400px;
+}
+
+.main_head {
+    width: 1000px;
+    height: 400px;
+    border-bottom: 2px solid #ddd;
+    margin: 0 auto;
+}
+
+.main_bread {
+    text-align: left;
+    background: #F5F5F5;
+    width: 1000px;
+    height: 35px;
+    border: 1px solid #CBCBCB;
+}
+
+.main_banner {
+    width: 1000px;
+    height: 262px;
+    margin-top: 10px;
+
+}
+
+.main_bott {
+    width: 1000px;
+    height: 35px;
+    margin-top: 45px;
+}
+
+.main_bott_left {
+    float: left;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.main_bott_right {
+    float: right;
+}
+
+.main_bott_right img {
+    display: inline;
+    margin-right: 10px;
+    margin-top: 7px;
+}
+
+.main_bott_right span {
+    position: relative;
+    top: -4px;
+    font-weight: bold;
+    font-size: 16px;
+    color: #F37578;
+}
+
+.main_form {
+    margin: 0 auto;
+    width: 1000px;
+    font-family: Arial;
+    font-size: 16px;
+    color: #6f6f71;
+}
+
+.main_form_first {
+    float: left;
+    text-align: left;
+    margin-left: 15px;
+    line-height: 30px;
+}
+
+.first_name {
+    margin-left: 35px;
+    float: left;
+}
+
+.first_input {
+    width: 500px;
+    float: left;
+}
+
+.first_input input {
+    float: left;
+    margin-left: 24px;
+    width: 500px;
+    height: 35px;
+    border: 1px solid gray;
+}
+
+.first_text {
+    float: left;
+    margin-left: 50px;
+    font-size: 14px;
+}
+
+.main_form_image {
+    float: left;
+    text-align: left;
+    margin-left: 15px;
+    margin-top: 25px;
+    line-height: 30px;
+}
+
+.main_form_image .first_input {
+    margin-left: 24px;
+}
+
+.uploadarea_bar_r_msg {
+    font-size: 14px;
+}
+
+#btnSub_content {
+    width: 106px;
+    height: 32px;
+    border: 0;
+    cursor: pointer;
+    background-color: #00A2E8;
+    color: white;
+}
+
+#btnRes_content {
+    margin-left: 10px;
+    width: 106px;
+    height: 32px;
+    border: 0px;
+    cursor: pointer;
+    color: transparent;
+    background: url('/image/qiyun/research/addEvaluation/9.png') no-repeat;
+}
+
+/*
+Uploadify
+Copyright (c) 2012 Reactive Apps, Ronnie Garcia
+Released under the MIT License <http://www.opensource.org/licenses/mit-license.php>
+*/
+#file_upload {
+    /*margin-left: 24px;*/
+}
+
+#file_upload-button span {
+    float: left;
+    display: block;
+    cursor: pointer;
+    padding: 1px 28px;
+    background-color: #41a6ee;
+    color: white;
+    border-radius: 2px;
+}
+
+.uploadify {
+    position: relative;
+    margin-bottom: 1em;
+}
+
+.uploadify-button.disabled {
+    background-color: #D0D0D0;
+    color: #808080;
+}
+
+.uploadify-queue {
+    margin-bottom: 1em;
+}
+
+.uploadify-queue-item {
+    background-color: #F5F5F5;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    font: 11px Verdana, Geneva, sans-serif;
+    margin-top: 5px;
+    max-width: 350px;
+    padding: 10px;
+}
+
+.uploadify-error {
+    background-color: #FDE5DD !important;
+}
+
+.uploadify-queue-item .cancel a {
+    background: url('./uploadify-cancel.png') 0 0 no-repeat;
+    float: right;
+    height: 16px;
+    text-indent: -9999px;
+    width: 16px;
+}
+
+.uploadify-queue-item.completed {
+    background-color: #E5E5E5;
+}
+
+.uploadify-progress {
+    background-color: #E5E5E5;
+    margin-top: 10px;
+    width: 100%;
+}
+
+.uploadify-progress-bar {
+    background-color: #0099FF;
+    height: 3px;
+    width: 1px;
+}
+
+.main_form_second {
+    float: left;
+    text-align: left;
+    margin-left: 15px;
+    margin-top: 25px;
+    line-height: 30px;
+}
+
+.second_type {
+    letter-spacing: 2px;
+    width: 500px;
+    /*float:left;*/
+}
+
+.second_type select {
+    /*float:left;*/
+    margin-left: 24px;
+    width: 220px;
+    height: 35px;
+    border: 1px solid gray;
+    font-size: 16px;
+}
+
+.main_form_third {
+    float: left;
+    text-align: left;
+    margin-left: 15px;
+    line-height: 30px;
+    margin-top: 28px;
+}
+
+.third_text {
+    float: left;
+
+}
+
+.third_input {
+    width: 500px;
+    float: left;
+}
+
+.third_input input {
+    float: left;
+    margin-left: 24px;
+    width: 220px;
+    height: 35px;
+    border: 1px solid gray;
+}
+
+.third_img {
+    position: absolute;
+    z-index: 1;
+    margin-left: 218px;
+    margin-top: 7px;
+    width: 21px;
+    height: 21px;
+    background: url('/image/qiyun/research/addEvaluation/2.png') no-repeat;
+}
+
+.main_form_four {
+    float: left;
+    text-align: left;
+    margin-left: 15px;
+    line-height: 30px;
+    margin-top: 28px;
+}
+
+.four_name {
+    margin-left: 5px;
+    float: left;
+}
+
+.four_time {
+    float: left;
+
+}
+
+.four_input {
+    width: 230px;
+    float: left;
+}
+
+.four_input input {
+    float: left;
+    margin-left: 24px;
+    width: 220px;
+    height: 35px;
+    border: 1px solid gray;
+}
+
+.four_input1 {
+    width: 230px;
+    float: left;
+}
+
+.four_input1 input {
+    float: left;
+    margin-left: 27px;
+    width: 220px;
+    height: 35px;
+    border: 1px solid gray;
+}
+
+.four_zhi {
+    float: left;
+    margin-left: 35px;
+}
+
+.four_img {
+    position: absolute;
+    z-index: 1;
+    margin-left: 218px;
+    margin-top: 7px;
+    width: 21px;
+    height: 21px;
+    background: url('/image/qiyun/research/addEvaluation/2.png') no-repeat;
+}
+
+.four_img1 {
+    position: absolute;
+    z-index: 1;
+    margin-left: 218px;
+    margin-top: 7px;
+    width: 21px;
+    height: 21px;
+    background: url('/image/qiyun/research/addEvaluation/2.png') no-repeat;
+}
+
+.selectMainMan {
+    position: fixed;
+    width: 700px;
+    height: 500px;
+    background: #fff;
+    z-index: 2;
+    box-shadow: -1px 4px 20px 3px #ccc;
+    border-radius: 3px;
+    top: 50%;
+    left:50%;
+    margin-left: -350px;
+    margin-top:-250px;
+}
+
+.hide {
+    display: none;
+}
+
+.shadow {
+    width: 2000px;
+    height: 1000px;
+    background-color: #929292;
+    display: none;
+    position: fixed;
+    z-index: 1;
+    opacity: 0.3;
+    filter:alpha(opacity=30);
+    left: 0px;
+    top: 0px
+}
+
+/*=======================================遮罩层（评课自备人）============================================*/
+.content {
+    width: 700px;
+    height: 480px;
+}
+
+.selector {
+    width: 665px;
+    font-size: 14px;
+    text-align: left;
+    margin-left: 35px;
+    color: black;
+}
+
+.selector select {
+    font-size: 14px;
+    height: 30px;
+    margin-left: 10px;
+}
+
+.selector .selector_first {
+    width: 120px;
+}
+
+.selector .selector_last {
+    font-size: 14px;
+    width: 60px;
+    height: 25px;
+    background: #41A6EE;
+    color: #fff;
+    cursor: pointer;
+    margin-right: 45px;
+    line-height: 25px;
+    text-align: center;
+    float: right;
+}
+
+.accurateSelect {
+    font-size: 14px;
+    text-align: left;
+    margin-left: 35px;
+    color: #000;
+}
+
+.accurateSelect .accurate_third{
+    background-color: #41a6ee;
+    color: #fff;
+    padding: 5px 20px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.accurateSelect input {
+    width: 190px;
+    height: 30px;
+    font-size: 14px;
+    text-align: left;
+    margin-left: 10px;
+    border: 1px solid #6f6f71;
+}
+
+.button_btn_span {
+    text-align: center;
+    width: 60px;
+    height: 25px;
+    line-height: 25px;
+    font-size: 14px;
+    color: #fff;
+    float: right;
+    margin-right: 45px;
+    cursor: pointer;
+    background: #41a6ee;
+}
+
+.name_option {
+    margin-left: 35px;
+    width: 93%;
+    text-align: left;
+    float: left;
+    height: 350px;
+    overflow: auto;
+    font-size: 14px;
+    color: #6f6f71;
+}
+
+.name_option_first {
+    width: 623px;
+    height: 40px;
+    margin-top: 5px;
+}
+
+.name_option_first input {
+    position: relative;
+    top: 2px;
+}
+
+.div_span_radio1 {
+    display: list-item;
+    width: 207px;
+    height: 30px;
+    line-height: 30px;
+    float: left;
+    margin-top: 5px;
+    overflow: hidden;
+}
+
+.div_span_radio2 {
+    float: left;
+    width: 208px;
+    text-align: center;
+}
+
+.div_span_radio3 {
+    float: right;
+    width: 200px;
+    text-align: right;
+}
+
+/*=======================================遮罩层（评课自备人）结束============================================*/
+.main_form_five {
+    float: left;
+    text-align: left;
+    margin-left: 15px;
+    line-height: 30px;
+    margin-top: 28px;
+}
+
+.five_name {
+    margin-left: 45px;
+    float: left;
+}
+
+.five_text {
+    float: left;
+}
+
+.five_img {
+    float: left;
+}
+
+.five_img span {
+    /*float:left;*/
+    text-align: center;
+    margin-left: 30px;
+    display: block;
+    width: 120px;
+    height: 30px;
+    color: white;
+    padding: 1px 12px;
+    /*background-color: #41A6EE;*/
+    background-color: #cccccc;
+}
+
+#choose {
+    cursor: pointer;
+    width: 140px;
+    height: 29px;
+    position: absolute;
+    z-index: 1;
+    margin-left: 30px;
+    opacity: 0;
+    filter:alpha(opacity=0);
+}
+
+.five_checkbox {
+    float: left;
+}
+
+.five_checkbox1 {
+    float: left;
+}
+
+.five_checkbox1 span {
+    /*float:left;*/
+    text-align: center;
+    margin-left: 30px;
+    display: block;
+    width: 120px;
+    height: 30px;
+    color: white;
+    padding: 1px 12px;
+    background-color: #cccccc;
+    /*background-color: #cccccc;*/
+}
+
+#myis {
+    cursor: pointer;
+    width: 140px;
+    height: 29px;
+    position: absolute;
+    z-index: 1;
+    margin-left: 30px;
+    opacity: 0;
+    filter:alpha(opacity=0);
+}
+
+.five_checkbox2 {
+    float: left;
+    margin-left: 5px;
+}
+
+/*six*/
+.main_form_six {
+    float: left;
+    width: 1000px;
+    height: 50px;
+    text-align: left;
+    margin-left: 15px;
+    line-height: 30px;
+    margin-top: 28px;
+}
+
+.six_type {
+    float: left;
+}
+
+.six_type select {
+    float: left;
+    margin-left: 24px;
+    width: 120px;
+    height: 35px;
+    border: 1px solid gray;
+}
+
+.six_type1 {
+    float: left;
+}
+
+.six_type1 select {
+    float: left;
+    margin-left: 14px;
+    width: 120px;
+    height: 35px;
+    border: 1px solid gray;
+}
+
+.six_type2 {
+    float: left;
+}
+
+.six_type2 select {
+    float: left;
+    margin-left: 14px;
+    width: 265px;
+    height: 35px;
+    border: 1px solid gray;
+}
+
+.main_form_seven {
+    float: left;
+    text-align: left;
+    margin-left: 15px;
+    line-height: 30px;
+    margin-top: 13px;
+}
+
+.seven_temp {
+    float: left;
+}
+
+.seven_temp span {
+    text-align: center;
+    float: left;
+    margin-left: 25px;
+    display: block;
+    height: 30px;
+    width: 120px;
+    background-color: #cccccc;
+    color: white;
+}
+
+.seven_temp1 {
+    float: left;
+}
+
+.seven_temp1 span {
+    color: white;
+    text-align: center;
+    float: left;
+    margin-left: 25px;
+    display: block;
+    height: 30px;
+    width: 120px;
+    background-color: #cccccc;
+}
+
+#default {
+    cursor: pointer;
+    width: 120px;
+    height: 27px;
+    z-index: 1;
+    margin-left: -120px;
+    opacity: 0;
+    filter:alpha(opacity=0);
+}
+
+#mytpl {
+    cursor: pointer;
+    width: 120px;
+    height: 27px;
+    z-index: 1;
+    margin-left: -120px;
+    opacity: 0;
+    filter:alpha(opacity=0);
+}
+
+.area_width {
+    margin-top: 25px;
+}
+
+.eight_area {
+    float: left;
+}
+
+.eight_area textarea {
+    float: left;
+    border: 1px solid gray;
+    margin-left: 20px;
+}
+
+.main_form_nine {
+    float: left;
+    width: 1000px;
+    height: 50px;
+    /*border: 1px solid red;*/
+    text-align: left;
+    margin-left: 125px;
+    line-height: 30px;
+    margin-top: 22px;
+}
+
+.main_form_nine div {
+    float: left;
+}
+
+.main_form_nine .invite .invite_last {
+    margin-left: 10px;
+}
+
+.main_form_nine .invite .invite_second {
+    position: absolute;
+    z-index: 1;
+    margin-left: 14px;
+    margin-top: 12px;
+}
+
+.main_form_nine .invite .invite_third {
+    margin-left: 9px;
+    margin-bottom: 5px;
+}
+
+.main_form_nine .allopen .allopen_last {
+    margin-left: 10px;
+}
+
+.main_form_nine .allopen .allopen_second {
+    position: absolute;
+    z-index: 1;
+    margin-left: 14px;
+    margin-top: 11px;
+}
+
+.main_form_nine .allopen .allopen_third {
+    margin-left: 9px;
+    margin-bottom: 7px;
+}
+
+#invite {
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    z-index: 2;
+    opacity: 0;
+    filter:alpha(opacity=0);
+}
+
+#allOpen {
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    z-index: 2;
+    opacity: 0;
+    filter:alpha(opacity=0);
+}
+
+.main_form_ten {
+    margin-top: 110px;
+    margin-right: 130px;
+}
+
+.checked {
+    margin-right: 20px;
+}
+
+#btnSub {
+    width: 106px;
+    height: 32px;
+    border: 0px;
+    cursor: pointer;
+    color: transparent;
+    background: url('/image/qiyun/research/addEvaluation/8.png') no-repeat;
+}
+
+#btnRes {
+    margin-left: 10px;
+    width: 106px;
+    height: 32px;
+    border: 0px;
+    cursor: pointer;
+    color: transparent;
+    background: url('/image/qiyun/research/addEvaluation/9.png') no-repeat;
+}
+
+/* ========================================选择模板页弹出层CSS样式 开始=============================================*/
+/*线下部分*/
+.main_link {
+    padding-top: 30px;
+    width: 800px;
+    height: 550px;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 5px;
+    position: fixed;
+    z-index: 2;
+    display: none;
+    top: 50%;
+    left:50%;
+    margin-left: -400px;
+    margin-top:-225px;
+}
+
+.main_link .close span:hover {
+    background-color: red;
+}
+
+.main_link .close span {
+    float: right;
+    width: 30px;
+    height: 25px;
+    line-height: 20px;
+    font-size: 25px;
+    display: block;
+    color: white;
+    cursor: pointer;
+    background-color: #6c6c6c;
+    margin-right: 10px;
+    margin-top: -20px;
+}
+
+/*模板部分*/
+.main_link_template {
+    float: left;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    width: 660px;
+}
+
+.main_line {
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    margin-top: 60px;
+    width: 700px;
+    margin-left: 40px;
+    /*height:505px;*/
+}
+
+.main_line_avg {
+    width: 700px;
+    height: 35px;
+    letter-spacing: 1px;
+    line-height: 35px;
+    border: 2px solid #ccc;
+    float: left;
+}
+
+.main_line_avg1 {
+    margin-left: 13px;
+    font-size: 16px;
+    float: left;
+}
+
+.main_line_avg2 {
+    font-size: 16px;
+    color: #66B7EE;
+    float: right;
+    margin-right: 23px;
+
+}
+
+.main_line_div {
+    float: left;
+    font-size: 14px;
+    color: #787878;
+}
+
+.main_line_div1 {
+    line-height: 50px;
+    float: left;
+    width: 700px;
+    height: 40px;
+    border-left: 1px solid #ccc;;
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+.main_line_div1_left {
+    margin-left: 14px;
+    float: left;
+}
+
+.main_line_div1_right {
+    margin-right: 25px;
+    float: right;
+}
+
+.main_line_div div {
+    border: 1px solid #ededed;
+    width: 700px;
+    height: 40px;
+    line-height: 40px;
+}
+
+.main_line_div span:first-child {
+    /*border:1px solid blue;*/
+    float: left;
+    width: 130px;
+    height: 40px;
+}
+
+.main_line_div span:last-child {
+    /*border:1px solid green;*/
+    height: 40px;
+    margin-left: 400px;
+}
+
+.main_line_div span:last-child img {
+    margin-left: 10px;
+}
+
+.main_link_template {
+    float: left;
+    width: 700px;
+    height: 50px;
+    /*border: 1px solid red;*/
+    text-align: left;
+    /*margin-left:125px;*/
+    line-height: 30px;
+    /*margin-top:22px;*/
+}
+
+.main_link_template div {
+    float: left;
+}
+
+.main_link_template .invite .invite_last {
+    margin-left: 10px;
+}
+
+.main_link_template .invite .invite_second {
+    position: absolute;
+    z-index: 1;
+    margin-left: 14px;
+    margin-top: 13px;
+}
+
+.main_link_template .invite .invite_third {
+    margin-left: 9px;
+    margin-bottom: 5px;
+}
+
+.main_link_template .allopen .allopen_last {
+    margin-left: 10px;
+}
+
+.main_link_template .allopen .allopen_second {
+    position: absolute;
+    z-index: 1;
+    margin-left: 14px;
+    margin-top: 11px;
+}
+
+.main_link_template .allopen .allopen_third {
+    margin-left: 9px;
+    margin-bottom: 7px;
+}
+
+#invite_tpl {
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    z-index: 2;
+    opacity: 0;
+    filter:alpha(opacity=0);
+}
+
+#allOpen_tpl {
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    z-index: 2;
+    opacity: 0;
+    filter:alpha(opacity=0);
+}
+
+/* ========================================== 选择模板页弹出层CSS样式 结束 ===========================================*/
+
+/* ======================================== 自定义模板页弹出层CSS样式 开始 =============================================*/
+
+.main_list_name {
+    position: fixed;
+    z-index: 2;
+    /*text-align:center;*/
+    width: 700px;
+    border-radius: 5px;
+    min-height: 500px;
+    background-color: white;
+    border: 1px solid black;
+    display: none;
+    top:50%;
+    left:50%;
+    margin-left: -350px;
+    margin-top:-250px;
+}
+
+.main_head_name {
+    width: 700px;
+    height: 50px;
+    border-bottom: 1px solid #929292;
+}
+
+.main_list_name_close {
+    background-color: #6c6c6c;
+    color: white;
+    cursor: pointer;
+    display: block;
+    float: right;
+    font-size: 25px;
+    height: 25px;
+    line-height: 20px;
+    margin-right: 10px;
+    margin-top: 10px;
+    width: 30px;
+}
+
+.main_list_name_close:hover {
+    background-color: red;
+}
+
+.main_bread_name {
+    text-align: left;
+    background: #F5F5F5;
+    width: 700px;
+    height: 35px;
+    border: 1px solid #CBCBCB;
+}
+
+.main_bott_name {
+    width: 700px;
+    height: 35px;
+    margin-top: 45px;
+}
+
+.main_bott_left_name {
+    float: left;
+    margin-left: 30px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+/*线下部分*/
+.main_link_name {
+    margin: 0 auto;
+    width: 700px;
+}
+
+/*课时部分*/
+.main_lesson_name {
+    width: 700px;
+    height: 130px;
+    text-align: left;
+    margin-top: 25px;
+    border-bottom: 1px solid #929292;
+}
+
+.main_shancha_name {
+    margin-left: 30px;
+    float: left;
+    font-size: 14px;
+    font-weight: bold;
+    color: #000;
+}
+
+.main_shouke_name {
+    margin-left: 30px;
+    color: #888888;
+    width: 1000px;
+    float: left;
+    margin-top: 50px;
+}
+
+.main_image_name {
+    float: left;
+    margin-top: 8px;
+}
+
+.main_image_name input {
+    border: 1px solid #ddd;
+}
+
+.main_image_name :first-child {
+    width: 220px;
+    height: 30px;
+    margin-left: 10px;
+    margin-right: 60px;
+    padding-left: 10px;
+}
+
+input::-webkit-input-placeholder {
+    color: #d3bd50;
+}
+
+input:-moz-placeholder {
+    color: #d3bd50;
+}
+
+input::-moz-placeholder {
+    color: #d3bd50;
+}
+
+input:-ms-input-placeholder {
+    color: #d3bd50;
+}
+
+.main_image_name button {
+    border: 0;
+    width: 80px;
+    height: 30px;
+    color: white;
+    background-color: #00a2e8;
+    padding: 5px 15px;
+    cursor: pointer;
+}
+
+/*课时部分结束*/
+.main_line_name {
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    width: 640px;
+    height: 200px;
+}
+
+.main_line_name div {
+    float: left;
+    margin-left: 15px;
+    margin-top: 5px;
+    width: 100px;
+    height: 30px;
+}
+
+.main_line_name div button {
+    cursor: pointer;
+    width: 100px;
+    height: 30px;
+}
+
+.main_line_name div span {
+    cursor: pointer;
+    width: 12px;
+    height: 12px;
+    line-height: 10px;
+    display: block;
+    color: white;
+    background-color: #6a7177;
+    position: absolute;
+    z-index: 3;
+    margin-left: 87px;
+    margin-top: 1px;
+}
+
+/* ======================================== 自定义模板页弹出层CSS样式 开始 =============================================*/
+
+/* ======================================== 自定义模板内容弹出层CSS样式 开始 =============================================*/
+.main_list_content {
+    position: fixed;
+    z-index: 2;
+    /*text-align:center;*/
+    width: 800px;
+    border-radius: 5px;
+    height: 700px;
+    background-color: white;
+    border: 1px solid black;
+    display: none;
+    top: 50%;
+    left:50%;
+    margin-left: -400px;
+    margin-top:-350px;
+}
+
+.main_head_content {
+    width: 730px;
+    height: 35px;
+    border-bottom: 1px solid #929292;
+    margin: 0 auto;
+}
+
+.main_bott_content {
+    width: 730px;
+    height: 30px;
+    margin-top: 15px;
+}
+
+.main_bott_left_content {
+    float: left;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+/*线下部分*/
+.main_link_content {
+    margin: 0 auto;
+    width: 730px;
+}
+
+/*课时部分*/
+.main_lesson_content {
+    width: 730px;
+    height: 120px;
+    text-align: left;
+    margin-top: 8px;
+    border-bottom: 1px solid #929292;
+}
+
+.main_shancha_content {
+    float: left;
+    font-size: 14px;
+    color: #000;
+    margin-top: 10px;
+}
+
+.main_shouke_content {
+    color: #888888;
+    width: 730px;
+    height: 20px;
+    float: left;
+}
+
+.main_shouke_content span {
+    color: black;
+    font-weight: bold;
+    font-size: 14px;
+    margin-top: 15px;
+    display: block;
+    letter-spacing: 1px;
+}
+
+.main_image_content {
+    float: left;
+    height: 30px;
+    margin-top: 10px;
+    font-size: 14px;
+    line-height: 30px;
+}
+
+.main_image_content input {
+    border: 1px solid #EEAAdd;
+}
+
+.main_image_content :first-child {
+    width: 220px;
+    height: 30px;
+    margin-left: 10px;
+    margin-right: 60px;
+    padding-left: 10px;
+    margin-top: 5px;
+}
+
+input::-webkit-input-placeholder {
+    font-size: 12px;
+    color: #d3bd50;
+}
+
+input:-moz-placeholder {
+    font-size: 12px;
+    color: #d3bd50;
+}
+
+input::-moz-placeholder {
+    font-size: 12px;
+    color: #6f6f71;
+}
+
+input:-ms-input-placeholder {
+    font-size: 12px;
+    color: #d3bd50;
+}
+
+.main_image_content button {
+    border: 0;
+    width: 80px;
+    height: 28px;
+    color: white;
+    background-color: #00a2e8;
+    padding: 0 15px;
+    cursor: pointer;
+}
+
+/*课时部分结束*/
+.main_line_content {
+    margin-top: 10px;
+    width: 729px;
+    height: 420px;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+.main_line_avg_content {
+    width: 728px;
+    height: 25px;
+    letter-spacing: 1px;
+    line-height: 25px;
+    border: 2px solid #ccc;
+    float: left;
+}
+
+.main_line_avg1_content {
+    margin-left: 13px;
+    font-size: 16px;
+    float: left;
+}
+
+.main_line_avg2_content {
+    font-size: 16px;
+    color: #66B7EE;
+    float: right;
+    margin-right: 360px;
+
+}
+
+.main_line_div_content {
+    float: left;
+    font-size: 14px;
+    color: #787878;
+}
+
+.main_line_div1_content {
+    line-height: 51px;
+    float: left;
+    width: 728px;
+    height: 20px;
+}
+
+.main_line_div1_left_content {
+    margin-left: 14px;
+    float: left;
+}
+
+.main_line_div1_right_content .contentTpl {
+    margin-top: 5px;
+    /*background-color: #00a0e9;*/
+}
+
+.main_line_div1_right_content div {
+    border: 1px solid #ededed;
+    width: 727px;
+    height: 35px;
+    line-height: 35px;
+}
+
+.main_line_div1_right_content .contentTpl .contentTpl_first {
+    float: left;
+    width: 20px;
+    margin-left: 30px;
+}
+
+.main_line_div1_right_content .contentTpl .contentTpl_second {
+    float: left;
+    text-align: left;
+    width: 220px;
+}
+
+.main_line_div1_right_content .contentTpl .contentTpl_third {
+    float: left;
+    margin-left: 10px;
+}
+
+.main_line_div1_right_content .contentTpl .contentTpl_third img {
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.main_line_div1_right_content .contentTpl .contentTpl_fouth {
+    height: 35px;
+    width: 50px;
+    float: left;
+    margin-left: 150px;
+    /*color: #EEAAdd;*/
+    cursor: pointer;
+}
+
+.main_line_div1_right_content .contentTpl .contentTpl_last {
+    height: 35px;
+    width: 50px;
+    float: right;
+    margin-right: 50px;
+    /*color: #EEAAdd;*/
+    cursor: pointer;
+}
+
+.edit_content {
+    width: 300px;
+    height: 200px;
+    display: none;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 5px;
+    position: fixed;
+    z-index: 2;
+    top:50%;
+    left:50%;
+    margin-left: -150px;
+    margin-top:-100px;
+}
+
+.edit_content div {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.edit_content .edit_content_first{
+    margin-left: 10px;
+    display: block;
+    width: 180px;
+    float: left;
+}
+
+.edit_content .edit_content_last{
+    margin-top: 10px;
+    margin-left: -20px;
+    width: 180px;
+}
+
+.edit_content .edit_content_last_div {
+    width: 300px;
+    height: 30px;
+    margin-left: 40px;
+    text-align: center;
+}
+
+.main_input_btn_content {
+    width: 700px;
+    height: 50px;
+    float: left;
+    margin-top: 50px;
+}
+
+.main_submit_content {
+    float: left;
+    display: block;
+    width: 105px;
+    height: 30px;
+    line-height: 26px;
+    background: #41A6EE;
+    color: white;
+    font-size: 16px;
+    margin-left: 10px;
+    cursor: pointer;
+
+}
+
+.main_reset_content {
+    float: left;
+    display: block;
+    width: 105px;
+    height: 30px;
+    line-height: 26px;
+    background: #41A6EE;
+    color: white;
+    font-size: 16px;
+    margin-left: 14px;
+    cursor: pointer;
+}
+
+.main_form_ten_content {
+    margin-top: 25px;
+}
+
+/* ======================================== 自定义模板内容弹出层CSS样式 结束 =============================================*/
+
+/*=======================================遮罩层（邀请评课人）============================================*/
+.content_inviteMan {
+    width: 700px;
+    height: 480px;
+    /*border: 1px solid red;*/
+}
+
+.inviteMan {
+    position: fixed;
+    width: 700px;
+    height: 500px;
+    background: #fff;
+    z-index: 2;
+    box-shadow: -1px 4px 20px 3px #ccc;
+    border-radius: 3px;
+    top: 50%;
+    left:50%;
+    margin-left: -350px;
+    margin-top:-250px;
+}
+
+.selector_inviteMan {
+    width: 665px;
+    font-size: 14px;
+    text-align: left;
+    margin-left: 35px;
+    color: black;
+}
+
+.selector_inviteMan select {
+    font-size: 14px;
+    height: 30px;
+    margin-left: 10px;
+}
+
+.selector_inviteMan .selector_inviteMan_first {
+    width: 120px;
+}
+
+.selector_inviteMan .selector_inviteMan_last {
+    font-size: 14px;
+    width: 60px;
+    height: 25px;
+    background: #41A6EE;
+    color: #fff;
+    cursor: pointer;
+    margin-right: 45px;
+    line-height: 25px;
+    text-align: center;
+    float: right;
+}
+
+.accurateSelect_inviteMan {
+    font-size: 14px;
+    text-align: left;
+    margin-left: 35px;
+    color: #000;
+}
+
+.inviteMan_choice {
+    margin-top: 10px;
+    width: 700px;
+    height: 40px;
+    line-height: 40px;
+}
+
+.accurateSelect_inviteMan .accurateSelect_inviteMan_last {
+    background-color: #41a6ee;
+    color: #fff;
+    padding: 5px 20px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.accurateSelect_inviteMan input {
+    width: 190px;
+    height: 30px;
+    font-size: 14px;
+    text-align: left;
+    margin-left: 10px;
+    border: 1px solid #6f6f71;
+}
+
+.button_btn_span_inviteMan_1 {
+    text-align: center;
+    display: block;
+    float: left;
+    margin-left: 300px;
+    width: 60px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 14px;
+    color: #fff;
+    cursor: pointer;
+    background: #41a6ee;
+    margin-top: 5px;
+}
+
+.button_btn_span_inviteMan {
+    margin-top: 5px;
+    text-align: center;
+    display: block;
+    float: left;
+    margin-left: 10px;
+    width: 60px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 14px;
+    color: #fff;
+    cursor: pointer;
+    background: #41a6ee;
+}
+
+.name_option_inviteMan {
+    margin-left: 35px;
+    width: 640px;
+    height: 320px;
+    overflow-y: auto;
+    text-align: left;
+    float: left;
+    font-size: 14px;
+    color: #6f6f71;
+}
+
+.name_option_first_inviteMan {
+    width: 623px;
+
+    margin-top: 5px;
+}
+
+.name_option_first_inviteMan input {
+    position: relative;
+    top: 2px;
+}
+
+.div_span_radio1_inviteMan {
+    width: 207px;
+    height: 30px;
+    line-height: 30px;
+    float: left;
+    overflow: inherit;
+    margin-top: 5px;
+}
+
+.div_span_radio2_inviteMan {
+    float: left;
+    width: 208px;
+    text-align: center;
+}
+
+.div_span_radio3_inviteMan {
+    float: right;
+    width: 200px;
+    text-align: right;
+}
+
+/*=======================================遮罩层（邀请评课人）结束============================================*/

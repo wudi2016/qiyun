@@ -1,0 +1,407 @@
+.posi{
+	width:998px;
+	height:35px;
+	border:1px solid #E1E1E1;
+	margin-bottom:20px;
+	background: #F5F5F5;
+}
+.li_home{
+	width:50px;
+	height:35px;
+	float: left;
+	text-align: right;
+	line-height:35px;
+	background: url(/image/qiyun/icon2.png) 10px -598px;
+	/*background: url('/image/qiyun/icon2.png') 10px -598px;*/
+}
+.li_nxt{
+	width:auto;
+	height:35px;
+	padding:0 10px;
+	line-height:35px;
+	float: left;
+}
+.main_list{
+	margin:0 auto;
+	text-align:center;
+	width: 1300px;
+	min-height: 1500px;
+}
+.main_head{
+	width: 1000px;
+	height: 380px;
+	border-bottom: 2px solid #929292;
+	margin:0 auto;
+	padding-bottom: 5px;
+}
+.main_bread{
+	text-align: left;
+	background: #F5F5F5;
+	width:1000px;
+	height:35px;
+	border:1px solid #CBCBCB;
+}
+.main_banner{
+	width:1000px;
+	height: 250px;
+	margin-top:10px;
+}
+.main_bott{
+	width:1000px;
+	height: 35px;
+	margin-top: 48px;
+}
+.main_bott_left{
+	float:left;
+	font-size: 22px;
+}
+.main_link{
+	width:1000px;
+	margin:0 auto;
+}
+/*左侧部分*/
+.main_left{
+	margin:0 auto;
+	float:left;
+	width: 700px;
+	height: 800px;
+}
+.main_div_head{
+	width:600px;
+	margin-top:27px;
+	float:left;
+	height: 180px;
+	/*border: 1px solid red;*/
+}
+.div_head_image{
+	float:left;
+}
+.div_head_image img{
+
+}
+.div_head_right{
+	float:right;
+	text-align: left;
+	letter-spacing: 1px;
+	margin-top:3px;
+	margin-left:27px;
+	color:#252525;
+}
+.div_title{
+	font-size:23px;
+	width: 400px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+.div_title1{
+	margin-top: 23px;
+
+}
+.div_title2{
+	margin-top:15px;
+	width:410px;
+	height:20px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+.main_middle{
+	float:left;
+	width:690px;
+	margin-top:55px;
+	padding-bottom:10px;
+	border-bottom: 1px dotted #999;
+}
+.middle_title{
+	float:left;
+	font-size:17px;
+	letter-spacing: 1px;
+}
+.main_form{
+	width:690px;
+	margin-top:16px;
+	float:left;
+}
+.main_form input{
+	width:630px;
+	float:right;
+	height: 28px;
+	border:1px solid #999;
+}
+.form_text_area textarea{
+	margin-top:8px;
+	float:right;
+	width:630px;
+	border:1px solid #999;
+}
+.form_bott_text{
+	float:left;
+	margin-top:6px;
+}
+.form_bott_text1{
+	float:left;
+	color:gray;
+	margin-left:60px;
+}
+.form_bott_text2{
+	float: right;
+	margin-left: 453px;
+	margin-top:-18px;
+}
+/*.form_bott_text2 a{*/
+	/*color:white;*/
+/*}*/
+.form_bott_text2 button{
+	cursor: pointer;
+	width:70px;
+	height: 23px;
+	font-size:12px;
+	background: #41a5f0;
+	text-align: center;
+	color:#fff;
+	border:0;
+}
+.form_bott_div{
+	width: 690px;
+	height: 220px;
+	float:left;
+}
+.div_text{
+	float: left;
+	width:690px;
+	height:33px;
+	border-bottom: 1px dotted #999;
+	margin-top:45px;
+}
+.div_text span{
+	float:left;
+	font-size:17px;
+	letter-spacing: 1px;
+}
+.div_text a{
+	display: block;
+	width: 40px;
+	height: 20px;
+	color: #41A6EE;
+	float:right;
+	font-size:17px;
+	letter-spacing: 1px;
+}
+.div_foreach{
+	float: left;
+	width: 690px;
+	height: 160px;
+	margin-top:28px;
+}
+.div_foreach span{
+	display: block;
+	margin-top:80px;
+}
+.div_each_small{
+	float: left;
+	margin-right:14px;
+
+}
+.div_each_small1{
+	float:left;
+	margin-right: 12px;
+}
+.div_each_small2{
+	float: right;
+}
+
+
+.title_bott{
+	width:690px;
+	height: 260px;
+	margin-top:62px;
+	/*border: 1px solid red;*/
+}
+.subjectArticleError{
+	display: block;
+	padding-top:120px;
+}
+.titie_bott_article{
+	float:left;
+	width:690px;
+	border-bottom: 1px dotted #999;
+}
+.titie_bott_article span{
+	float:left;
+	font-size:17px;
+	letter-spacing: 1px;
+	margin-bottom: 12px;
+}
+.titie_bott_article a{
+	display: block;
+	width: 40px;
+	height: 20px;
+	color: #41A6EE;
+	float:right;
+	font-size:17px;
+	letter-spacing: 1px;
+}
+.title_bott_none{
+	float:left;
+	color:gray;
+	/*border: 1px solid red;*/
+	margin-top:12px;
+	text-align:left;
+}
+.title_bott_none span{
+	display: block;
+	margin-top:80px;
+}
+.title_bott_none ul{
+	list-style: none;
+}
+.title_bott_none ul a{
+	color: black;
+	font-size:16px;
+}
+.title_bott_none ul li{
+	width: 690px;
+	height: 30px;
+	line-height: 30px;
+	border-bottom: 1px dotted #DDDDDD;
+	margin-bottom: 5px;
+}
+
+/*右侧部分*/
+.main_right{
+	/*position: absolute;*/
+	/*margin-left:750px;*/
+	float:right;
+	width:240px;
+	height:800px;
+
+}
+.right_float_div{
+
+	height: 220px;
+	width: 240px;
+}
+.right_float_div div{
+	float: left;
+}
+.float_div_part1{
+	float: left;
+	margin-left:40px;
+	margin-top:30px;
+}
+.div_part1_1{	
+	float: left;
+}
+.div_part1_2{
+	float: right;
+	margin-left: 30px;
+}
+.float_div_part2{
+	float: left;
+	margin-left:40px;
+	margin-top:20px;
+}
+.div_part2_3{
+	float: left;
+
+}
+.div_part2_4{
+	float: right;
+	margin-left: 33px;
+	margin-top:1px;
+}
+
+.main_bottom_sum{
+	width:250px;
+	height: 220px;
+	margin-top:40px;
+}
+
+.bottom_sum_title{
+	float: left;
+	width:250px;
+	border-bottom: 1px solid #929292;
+	padding-bottom: 7px;
+	text-align: left;
+	font-size: 22px;
+}
+.bottom_sum_title a{
+	float: right;
+	top:15px;
+	font-size:14px;
+	display: block;
+	color:#41a5f0;
+	position:relative;
+	z-index: 999;
+}
+.sum_title_part1{
+	margin-top:20px;
+	text-align: left;
+}
+.title_part1_1 img{
+	margin-right:15px;
+	position: relative;
+	top:1px;
+}
+.bott_bott{
+	margin-top:45px;
+}
+.bott_bott1{
+	margin-top:30px;
+	width: 250px;
+	height: 150px;
+	text-align: left;
+}
+.subjectResourceError{
+	display: block;
+	padding-top: 90px;
+}
+.subjectVideoError{
+	display: block;
+	padding-top: 90px;
+}
+.subjectTopicError{
+	display: block;
+	padding-top: 90px;
+}
+.sum_title_part2{
+	margin-top:10px;
+	text-align: left;
+}
+.sum_line_bott{
+	position: relative;
+	text-align: left;
+	top:20px;
+	letter-spacing:1px;
+}
+
+.sum_line_bott ul{
+	list-style: none;
+}
+.sum_line_bott ul a{
+	color: black;
+	font-size:16px;
+}
+.sum_line_bott ul li{
+	width: 250px;
+	display: inline-block;
+	margin-bottom: 5px;
+}
+.bott1{
+	color:#929292;
+	position: relative;
+	text-align: left;
+	top:15px;
+}
+
+/*去出超链接点击完之后的黑色虚线框*/
+a {
+	blr:expression(this.onFocus=this.blur());
+}
+a {
+	outline: none;
+}
+a:focus {
+	outline: none;
+}

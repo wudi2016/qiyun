@@ -1,0 +1,365 @@
+.posi{
+	margin: 10px auto;
+	width:998px;
+	height:35px;
+	border:1px solid #E1E1E1;
+	background: #F5F5F5;
+}
+.li_home{
+	width:50px;
+	height:35px;
+	float: left;
+	text-align: right;
+	line-height:35px;
+	background: url(/image/qiyun/icon2.png) 10px -598px;
+	/*background: url('/image/qiyun/icon2.png') 10px -598px;*/
+}
+.li_nxt{
+	width:auto;
+	height:35px;
+	padding:0 10px;
+	line-height:35px;
+	float: left;
+}
+#apply_content{
+	width: 325px;
+	height: 275px;
+	background-color: #fff;
+	border-radius: 5px;
+	/*border: 1px solid red;*/
+	position: fixed;
+	z-index: 2;
+	display: none;
+	/*top: 200px;*/
+	/*left: 300px;*/
+	text-align: center;
+}
+.apply_top{
+	width: 325px;
+	height: 30px;
+	margin-top: 10px;
+}
+.apply_top span{
+	width: 275px;
+	height: 30px;
+	line-height: 30px;
+	display: block;
+	background-color: #41A6EE;
+	border-radius: 5px;
+	margin-left:25px;
+	font-size:18px;
+	letter-spacing: 2px;
+	color: #fff;
+}
+.apply_mid{
+	width: 325px;
+	height: 180px;
+	margin-top:10px;
+}
+.apply_mid textarea{
+	width: 275px;
+	height: 180px;
+	border-radius: 5px;
+	resize: none;
+	border: 1px solid grey;
+}
+.apply_bot{
+	width: 330px;
+	height: 30px;
+	margin-top:10px;
+}
+.apply_bot span{
+	font-size: 18px;
+	color: #fff;
+	float: left;
+	width: 160px;
+	height: 35px;
+	line-height: 35px;
+	letter-spacing: 3px;
+	display: block;
+	cursor: pointer;
+}
+.apply_bot span:first-child{
+	border-radius: 0px 0px 0px 5px;
+	background-color: #41a6ee;
+}
+.apply_bot span:last-child{
+	border-radius: 0px 0px 5px 0px;
+	background-color: #777;
+	margin-left: 5px;
+}
+#shadow{
+	width: 2000px;
+	height: 1000px;
+	background-color: #929292;
+	display: none;
+	position:fixed;
+	top: 0px;
+	left: 0px;
+	z-index: 1;
+	opacity: 0.5;
+}
+/*面包屑导航*/
+.crumbs{
+	margin: 0 auto;
+	width:1000px;
+	height:32px;
+	background: #F5F5F5;
+	border:1px solid #CBCBCB;
+}
+.crumbs_ul{
+	float: left;
+}
+.crumbs_ul_li_img1{
+	position: relative;
+	top:-2px;
+	left:-5px;
+}
+.crumbs_div1{
+	float: left;
+	width:80px;
+	height:33px;
+}
+.crumbs_div2{
+	width:100px;
+	height:33px;
+	float: left;
+}
+.crumbs_div3{
+	width:100px;
+	height:33px;
+	float:left;
+}
+.crumbs_div4{
+	width:100px;
+	height:33px;
+	float: left;
+}
+
+/*面包屑导航链接字体*/
+.crumbs_span2{
+	position: relative;
+	top:-10px;
+	left:-10px;
+}
+.crumbs_span3{
+	position: relative;
+	top:-10px;
+	left:-5px;
+}
+.crumbs_span4{
+	position: relative;
+	top:6px;
+	left:-15px;
+}
+
+li{
+	list-style: none;
+}
+
+
+
+
+
+/*主图div*/
+.zhutu{
+	margin: 0 auto;
+	width:1000px;
+	height:261px;
+	background:url('/image/qiyun/research/groupList/main.png') no-repeat;
+}
+
+
+
+
+/*main*/
+.main{
+	margin: 0 auto;
+	width:1000px;
+	height:1300px;
+	/*background: pink;*/
+}
+/*左侧内容*/
+.main_left{
+	float: left;
+	width:700px;
+	min-height:1300px;
+	/*background: #ccc;*/
+}
+/*协作组列表*/
+.main_left_title{
+	width:700px;
+	height:32px;
+	border-bottom: 1px solid #929292;
+}
+.main_left_title_span1{
+	float: left;
+	font-family: "黑体";
+	font-size:23px;
+}
+
+/*content*/
+.main_left_content{
+	width:700px;
+	height:175px;
+	border-bottom: 2px dotted #ADADAD;
+}
+.main_left_content_div1{
+	float: left;
+	margin-top: 30px;
+	width:160px;
+	height:115px;
+	/*background: yellow;*/
+}
+.main_left_content_div2{
+	float: left;
+	width:340px;
+	height:115px;
+	text-align: left;
+	margin-left:15px;
+	margin-top: 35px;
+}
+.main_left_content_div2_1{
+	width:340px;
+	height:30px;
+	/*background: #ccc; */
+	font-size: 17px;
+	font-family: "黑体";
+}
+.main_left_content_div2_1_1{
+	width:340px;
+	height:30px;
+	color: #777;
+	font-size: 14px;
+}
+.main_left_content_div2_span1{
+	width:340px;
+	height:30px;
+}
+.main_left_content_div2_3{
+	width:340px;
+	height:30px;
+	margin-top:10px;
+}
+.main_left_content_div2_3 div{
+	float: left;
+	margin-left:10px;
+}
+.main_left_content_div2_3 div span{
+	margin-left: 20px;
+}
+.main_left_content_div2_3 div:first-child{
+	margin-left: -3px;
+	background: url('/image/qiyun/research/lessonList/4.png') no-repeat;
+}
+.main_left_content_div2_3 div:nth-child(2){
+	background: url('/image/qiyun/research/lessonList/3.png') no-repeat;
+}
+.main_left_content_div2_3 div:nth-child(3){
+	background: url('/image/qiyun/research/lessonList/5.png') no-repeat;
+}
+.main_left_content_div2_3 div:nth-child(4){
+	background: url('/image/qiyun/research/lessonList/6.png') no-repeat;
+}
+
+
+.div2_3_img1{
+
+	font-family: "黑体";
+	font-size: 13px;
+	color:#777777;
+}
+.div2_3_img2{
+
+	font-family: "黑体";
+	font-size: 13px;
+	color:#777777;
+
+}
+.div2_3_img3{
+	font-family: "黑体";
+	font-size: 13px;
+	color:#777777;
+
+}
+
+.main_left_content_div3{
+	float: right;
+	width:180px;
+	height:115px;
+}
+.main_left_content_div3 div:last-child{
+	width: 180px;
+	height: 20px;
+	margin-top: 10px;
+	font-size: 13px;
+	color: #777;
+}
+.main_left_content_img1{
+	cursor: pointer;
+	width:118px;
+	height:27px;
+	margin-left:35px;
+	margin-top:30px;
+	background: url("/image/qiyun/research/groupList/9.png") no-repeat;
+}
+.main_left_content_img1:hover{
+	background: url("/image/qiyun/research/groupList/8.png") no-repeat;
+}
+
+
+/*右侧*/
+.main_right{
+	float: right;
+	width:245px;
+	height:400px;
+	/*background: #EFE4B0;*/
+}
+/*协作组统计*/
+.main_right_font1{
+	text-align: left;
+	width: 245px;
+	height:37px;
+	font-size: 24px;
+	border-bottom: 1px solid #ccc;
+}
+.right_font1_xz{
+	width: 255px;
+	height: 180px;
+}
+.right_font1_xz ul{
+	list-style: none;
+	text-align: left;
+}
+.right_font1_xz ul li{
+	width: 250px;
+	height:40px;
+}
+.right_font1_xz ul li:first-child span{
+	background: url('/image/qiyun/research/lessonList/1.png') no-repeat;
+	padding-left: 25px;
+}
+.right_font1_xz ul li:nth-child(2) span{
+	background: url('/image/qiyun/research/lessonList/2.png') no-repeat;
+	padding-left: 25px;
+}
+.right_font1_xz ul li:nth-child(3) span{
+	background: url('/image/qiyun/research/lessonList/3.png') no-repeat;
+	padding-left: 25px;
+}
+.right_font1_xz ul li:nth-child(4) span{
+	background: url('/image/qiyun/research/lessonList/4.png') no-repeat;
+	padding-left: 25px;
+}
+.right_font1_xz ul li:nth-child(5) span{
+	background: url('/image/qiyun/research/lessonList/5.png') no-repeat;
+	padding-left: 25px;
+}
+.right_font1_xz ul li:nth-child(6) span{
+	background: url('/image/qiyun/research/lessonList/6.png') no-repeat;
+	padding-left: 25px;
+}
+.right_font1_xz ul li:nth-child(7) span{
+	background: url('/image/qiyun/research/lessonList/7.png') no-repeat;
+	padding-left: 25px;
+}

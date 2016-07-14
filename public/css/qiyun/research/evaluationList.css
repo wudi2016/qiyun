@@ -1,0 +1,138 @@
+.posi{
+	width:998px;
+	height:35px;
+	border:1px solid #E1E1E1;
+	margin-bottom:20px;
+	background: #F5F5F5;
+}
+.li_home{
+	width:50px;
+	height:35px;
+	float: left;
+	text-align: right;
+	line-height:35px;
+	background: url(/image/qiyun/icon2.png) 10px -598px;
+	/*background: url('/image/qiyun/icon2.png') 10px -598px;*/
+}
+.li_nxt{
+	width:auto;
+	height:35px;
+	padding:0 10px;
+	line-height:35px;
+	float: left;
+}
+.main_list{
+	margin:0 auto;
+	text-align:center;
+	width: 1300px;
+	min-height: 1000px;
+}
+.main_head{
+	width: 1000px;
+	height: 400px;
+	border-bottom: 2px solid #ddd;
+	margin:0 auto;
+}
+.main_bread{
+	text-align: left;
+	background: #F5F5F5;
+	width:1000px;
+	height:35px;
+	border:1px solid #CBCBCB;
+}
+.main_banner{
+	width:1000px;
+	height: 262px;
+	margin-top:10px;
+	
+}
+.main_bott{
+	width:1000px;
+	height: 35px;
+	margin-top: 45px;
+}
+.main_bott_left{
+	float:left;
+	font-weight: bold;
+	font-size: 20px;
+}
+.main_bott_right{
+	float:right;
+}
+.main_bott_right img{
+	display: inline;
+	margin-right:10px;
+	margin-top: 7px;
+}
+.main_bott_right span{
+	position: relative;
+	top:-4px;
+	font-weight: bold;
+	font-size: 16px;
+	color:#F37578;
+}
+/*线下部分*/
+.main_link{
+	margin:23px auto;
+	width:1000px;
+	min-height:700px;
+}
+.main_foreach{
+	width:1000px;
+	min-height:700px;
+}
+.main_foreach_div{
+	width:1000px;
+	min-height:700px;
+	margin-bottom: 15px;
+}
+.back_color{
+	background:#F1F1F1;
+}
+.main_foreach_div1{
+	float:left;
+	display:inline-block;
+	text-align: left;
+	width: 333px;
+	height: 173px;
+}
+.main_foreach_div1-1{
+	float:left;
+	margin-top:7px;
+	font-family:'宋体';
+	font-weight: bold;
+	font-size:20px;
+}
+.main_foreach_div1-1 a{
+	color:black;
+}
+
+.main_foreach_divsmall{
+	line-height: 20px;
+	float:left;
+	font-size:12px;
+	color:#444;
+	margin-top:-2px;
+	letter-spacing: 1px;
+}
+
+.main_foreach_div1-2{
+	float:left;
+	margin-top:15px;
+}
+.main_foreach_div1-3{
+	float:right;
+	margin-top:25px;
+	margin-left:20px;
+}
+.main_foreach_div1-3 .main_foreach_div1-4 img{
+	margin-top:7px;
+}
+.main_foreach_div1-3 .main_foreach_div1-5{
+	color:#fe332f;
+}
+.main_page{
+	height:50px;
+	margin-top:100px;
+	list-style: none;
+}

@@ -1,0 +1,55 @@
+
+.content{
+    width:1000px;
+    margin:0 auto;
+}
+.clear{
+    height:23px;
+}
+.selector{
+    font-size:16px;
+    margin-top:50px;
+    text-align: left;
+}
+.selector select{
+    font-size:16px;
+    height: 30px;
+    color: #865761;
+    margin-left:25px;
+}
+
+.selector button{
+    font-size:16px;
+    position: relative;
+    left:50px;
+    width:70px;
+    height:30px;
+    border:0;
+    background:#41A6EE;
+    color:#fff;
+    cursor: pointer;
+}
+.accurateSelect{
+    font-size:16px;
+    text-align: left;
+    color:#935f62;
+}
+.accurateSelect input{
+    width: 140px;
+    height:30px;
+    font-size:16px;
+    text-align: left;
+    margin-left:26px;
+    border:1px solid #865761;
+}
+.accurateSelect button{
+    font-size:16px;
+    position: relative;
+    left:50px;
+    width:70px;
+    height:30px;
+    border:0;
+    background:#41A6EE;
+    color:#fff;
+    cursor: pointer;
+}

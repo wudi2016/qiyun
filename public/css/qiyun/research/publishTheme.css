@@ -1,0 +1,124 @@
+.posi{
+	width:998px;
+	height:35px;
+	border:1px solid #E1E1E1;
+	margin: 10px auto;
+	background: #F5F5F5;
+}
+.li_home{
+	width:50px;
+	height:35px;
+	float: left;
+	text-align: right;
+	line-height:35px;
+	background: url(/image/qiyun/icon2.png) 10px -598px;
+	/*background: url('/image/qiyun/icon2.png') 10px -598px;*/
+}
+.li_nxt{
+	width:auto;
+	height:35px;
+	padding:0 10px;
+	line-height:35px;
+	float: left;
+}
+.main{
+	width:465px;
+	height:440px;
+	border: 1px solid black;
+}
+/*字体div*/
+.font_div1{
+	width:465px;
+	height:53px;
+	/*background: #ccc;*/
+}
+.div1_span1{
+	position: relative;
+	left:40px;
+	top:25px;
+	font-family: "SimHei";
+	font-size:20px;
+}
+/*内容div*/
+#content{
+	margin: 0 auto;
+	width:385px;
+	height:344px;
+	background: pink;
+	border: 1px solid red;
+}
+/*话题标题总div*/
+.content_div{
+	width:385px;
+	height:30px;
+	/*background: yellow;*/
+}
+/*话题标题字体*/
+.content_div_span{
+	position: relative;
+	top:2px;
+	font-family: "SimHei";
+}
+/*输入框*/
+.content_input{
+
+}
+/*话题内容*/
+.content_div2{
+	width:385px;
+	height:196px;
+	/*background: #ccc;*/
+}
+/*话题内容span字体*/
+.content_div2_span{
+	position: relative;
+	bottom:173px;
+	font-family: "SimHei";
+}
+/*textarea框*/
+.content_div2_textarea{
+	width:285px;
+	height:190px;
+}
+/*输入提示*/
+.content_div3{
+	width:385px;
+	height:20px;
+	/*background: yellow;*/
+}
+.content_div3_span{
+	position: relative;
+	left:80px;
+	font-family: "SimHei";
+}
+.content_div4{
+	width:385px;
+	height:28px;
+	/*background: #ccc;*/
+}
+.content_div4_img{
+	position: relative;
+	left:130px;
+}
+.content_div5_img{
+	position: relative;
+	left:125px;
+}
+
+#btnSub{
+	width:106px;
+	height:32px;
+	border:0px;
+	cursor: pointer;
+	/*color:transparent;*/
+	background: url('/image/qiyun/research/publishAudio/2.png') no-repeat;
+}
+#btnRes{
+	margin-left: 10px;
+	width:106px;
+	height:32px;
+	border:0px;
+	cursor: pointer;
+	/*color:transparent;*/
+	background: url('/image/qiyun/research/publishAudio/3.png') no-repeat;
+}

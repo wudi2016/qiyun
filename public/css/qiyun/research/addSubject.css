@@ -1,0 +1,193 @@
+.posi{
+	width:998px;
+	height:35px;
+	border:1px solid #E1E1E1;
+	margin-bottom:20px;
+	background: #F5F5F5;
+}
+.li_home{
+	width:50px;
+	height:35px;
+	float: left;
+	text-align: right;
+	line-height:35px;
+	background: url(/image/qiyun/icon2.png) 10px -598px;
+	/*background: url('/image/qiyun/icon2.png') 10px -598px;*/
+}
+.li_nxt{
+	width:auto;
+	height:35px;
+	padding:0 10px;
+	line-height:35px;
+	float: left;
+}
+.main_list{
+	margin:0 auto;
+	text-align:center;
+	width: 1300px;
+	min-height: 1100px;
+}
+.main_head{
+	width: 1000px;
+	height: 380px;
+	border-bottom: 1px solid #929292;
+	margin:0 auto;
+}
+.main_bread{
+	text-align: left;
+	background: #F5F5F5;
+	width:1000px;
+	height:35px;
+	border:1px solid #CBCBCB;
+}
+.main_banner{
+	width:1000px;
+	height: 240px;
+	margin-top:10px;
+	
+}
+.main_bott{
+	width:1000px;
+	height: 35px;
+	margin-top: 45px;
+}
+.main_bott_left{
+	float:left;
+	font-weight: bold;
+	font-size: 20px;
+}
+.main_bott_right{
+	float:right;
+}
+.main_bott_right img{
+	display: inline;
+	margin-right:10px;
+	margin-top: 7px;
+}
+.main_bott_right span{
+	position: relative;
+	top:-4px;
+	font-weight: bold;
+	font-size: 16px;
+	color:#F37578;
+}
+.main_form{
+	margin: 0 auto;
+	width: 1000px;
+	font-family: Arial;
+	font-size:16px;
+	margin-top:53px;
+	color:#6f6f71;
+}
+.main_form_first{
+	float:left;
+	text-align:left;
+	margin-left:15px;
+	line-height: 30px;
+}
+.first_name{
+	margin-left:35px;
+	float:left;
+}
+.first_input{
+	float:left;
+}
+.first_input input{
+	float:left;
+	margin-left:24px;
+	width:635px;
+	height:35px;
+	border:1px solid gray;
+}
+
+.main_form_seven{
+	color:#6f6f71;
+	float:left;
+	text-align:left;
+	font-size:16px;
+	margin-left:163px;
+	line-height: 30px;
+	margin-top:30px;
+}
+.eight_area{
+	float: left;
+	margin-left:26px;
+	margin-top:8px;
+}
+.eight_area textarea{
+	border:1px solid #999;
+}
+.main_form_second{
+	color:#6f6f71;
+	width: 800px;
+	float:left;
+	text-align:left;
+	margin-left:200px;
+	margin-top:30px;
+	line-height: 30px;
+}
+.second_img{
+	float:left;
+	/*background: #F2F2F2;*/
+	/*border:1px solid #999;*/
+	width:246px;
+	height:196px;
+	font-size:16px;
+	margin-left:24px;
+	margin-top:3px;
+}
+.second_right{
+	float:left;
+	margin-left:35px;
+}
+.second_name{
+	float:left;
+	font-size:16px;
+	color:#6f6f71;
+}
+.second_file{
+	float:left;
+	display: block;
+	margin-top:10px;
+}
+.second_text{
+	text-align: left;
+	font-size:12px;
+	margin-top:50px;
+}
+.main_form_ten{
+	margin-top:80px;
+	margin-left:50px;
+	margin-left:-20px;
+}
+.main_form_ten .checked{
+	margin-top:80px;
+	margin-right:13px;
+}
+#btnSub{
+	width:106px;
+	height:32px;
+	border:0px;
+	cursor: pointer;
+	color:transparent;
+	background: url('/image/qiyun/research/addSubject/2.png') no-repeat;
+}
+#btnRes{
+	margin-left: 10px;
+	width:106px;
+	height:32px;
+	border:0px;
+	cursor: pointer;
+	color:transparent;
+	background: url('/image/qiyun/research/addSubject/9.png') no-repeat;
+}
+
+#uploadImage{
+	margin-left: -149px;
+	margin-top: 11px;
+	cursor: pointer;
+	width:149px;
+	height:33px;
+	opacity: 0;
+	filter:alpha(opacity=0);
+}

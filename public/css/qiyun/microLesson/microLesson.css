@@ -1,0 +1,352 @@
+/* 微课中心banner */
+/*#main{
+	width: 1000px;
+	height: 400px;
+	margin: 0 auto;
+	clear: both;
+	filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod='scale')";
+	-moz-background-size:100% 100%;background-size:100% 100%; 
+	background-image: url('/image/qiyun/resource/microLesson/top/banner.png');
+	text-align: center;
+	color: white;
+	word-spacing: 20px;
+}*/
+*{
+	margin:0;
+	padding:0;
+}
+/*最上层div*/
+#main{
+	margin:0 auto;
+	width:1000px;
+	height:400px;
+}
+/*左图片*/
+.banner_div{
+	width:750px;
+	height:310px;
+	float:left;
+	filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod='scale')";
+	-moz-background-size:100% 100%;background-size:100% 100%; 
+	background-image: url('/image/qiyun/microLesson/top/banner.png');
+}
+
+.right_div{
+	width:230px;
+	height:307px;
+	float:right;
+	border:2px solid #DBDBDB;
+}
+.right_div1{
+	margin:5px auto;
+	width:210px;
+	height:100px;
+	border-bottom:1px solid #ccc;
+}
+.right_div1_span1{
+	font-size:24px;
+	color: #952E02;
+	position: relative;
+	bottom:5px;
+
+}
+.right_div1_span2{
+	position: relative;
+	bottom:8px;
+	font-size:16px;
+}
+
+.right_div1_img{
+	position:relative;
+	right:19px;
+	margin-top:35px;
+}
+
+.right_div2{
+	margin:5px auto;
+	width:210px;
+	height:90px;
+	/*border-bottom:1px solid #ccc;*/
+}
+
+.right_div2_img{
+	
+	margin-top:35px;
+}
+.right_div2_span1{
+	font-size:24px;
+	color: #952E02;
+	position: relative;
+	bottom:5px;
+}
+
+.right_div2_span2{
+	position: relative;
+	bottom:8px;
+	font-size:16px;
+}
+/*上传图片按钮*/
+.input_upload{
+	position:relative;
+	top:10px;
+	/*left:10px;*/
+}
+/*图片下面文字*/
+.p_style{
+	position:relative;
+	top:15px;
+	/*left:45px;*/
+	font-size:14px;
+	color:#828282;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 公共内容区域 */
+#microLesson_contentBlock{
+	width: 1000px;
+	height: auto;
+	margin: 0 auto;
+}
+
+.microLesson_contentBlock_title{
+	width: 1000px;
+	height: 45px;
+}
+
+.microLesson_contentBlock_title_block{
+	max-width: 180px;
+	height: 40px;
+	float: left;
+	line-height: 40px;
+	font-size: 22px;
+	letter-spacing: 4px;
+	font-weight: bold;
+	text-align: center;
+	text-indent: 2px;
+	margin-right: 50px;
+	color: #767676;
+	cursor: pointer;
+}
+.microLesson_contentBlock_title_block_active{
+	border-bottom: 5px solid #5B8ED0;
+	color: #5B8ED0;
+}
+
+.microLesson_contentBlock_line{
+	width: 1000px;
+	height: 3px;
+	background: #767676;
+	margin-top: -4px;
+	margin-bottom: 20px;
+}
+
+.microLesson_contentBlock_content{
+	width: 1000px;
+	height: auto;
+	/*background: red;*/
+}
+
+
+
+
+
+/* 推荐课程 */
+.microLesson_contentBlock_content_recommend{
+	width: 320px;
+	height: 260px;
+	float: left;
+	margin-right: 20px;
+}
+.microLesson_contentBlock_content_recommend:nth-child(3){margin-right: 0px;}
+
+.microLesson_contentBlock_content_recommend_image{
+	width: 320px;
+	height: 190px;
+	margin-bottom: 8px;
+	filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod='scale')";
+	-moz-background-size:100% 100%;background-size:100% 100%; 
+}
+
+.microLesson_contentBlock_content_recommend_image_bottomText{
+	width: 100%;
+	height: 25px;
+	background: rgba(0,0,0,0.5);
+	color: white;
+	line-height: 25px;
+	font-size: 12px;
+}
+.microLesson_contentBlock_content_recommend_image_bottomText_left{
+	height: 100%;
+	max-width: 50%;
+	margin-left: 5px;
+	overflow:hidden;text-overflow:ellipsis;white-space:nowrap;
+	float: left;
+}
+.microLesson_contentBlock_content_recommend_image_bottomText_right{
+	height: 100%;
+	max-width: 40%;
+	margin-right: 10px;
+	overflow:hidden;text-overflow:ellipsis;white-space:nowrap;
+	float: right;
+}
+
+.microLesson_contentBlock_content_recommend_image_position{
+	width: 320px;
+	height: 190px;
+	position: relative;
+	top: -165px;
+	left: 0;
+	background: rgba(255,255,255,0.6);
+	display: none;
+}
+.microLesson_contentBlock_content_recommend_image_position_title{
+	width: 80%;
+	height: 20px;
+	margin: 0 auto;
+	margin-left: 5%;
+	color: #5D91D1;
+	line-height: 20px;
+	font-size: 14px;
+	font-weight: bold;
+	overflow:hidden;text-overflow:ellipsis;white-space:nowrap;
+}
+.microLesson_contentBlock_content_recommend_image_position_content{
+	width: 88%;
+	height: 120px;
+	margin: 0 auto;
+	margin-left: 5%;
+	line-height: 20px;
+	color: black;
+	font-size: 13px;
+	overflow:hidden;text-overflow:ellipsis;
+}
+.microLesson_contentBlock_content_recommend_text{
+	width: 320px;
+	height: 60px;
+	line-height: 20px;
+	overflow: hidden;
+	text-align: left;
+}
+.microLesson_contentBlock_content_recommend_text a{color: black;}
+
+
+
+
+
+
+/* 按年级分类课程 */
+.microLesson_contentBlock_navigation{
+	width: 800px;
+	height: auto;
+	margin-bottom: 20px;
+}
+
+
+
+
+.microLesson_contentBlock_navigation_block{
+	max-width: 148px;
+	height: 28px;
+	float: left;
+	margin-right: 10px;
+	line-height: 28px;
+	text-align: center;
+	border: 1px solid #8B8B8B;
+	background: #E1E1E1;
+	padding: 0 20px;
+	color: #6A6767;
+	cursor: pointer;
+	overflow:hidden;
+	margin-bottom: 5px;
+}
+.microLesson_contentBlock_navigation_block_active{
+	background: #5B8ED0;
+	color: white;
+}
+
+
+.microLesson_contentBlock_content_bySchool{
+	width: 320px;
+	height: 260px;
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+.microLesson_contentBlock_content_bySchool:nth-child(3n){margin-right: 0px;}
+.microLesson_contentBlock_content_bySchool:nth-child(n+9){margin-bottom: 0px;}
+
+.microLesson_contentBlock_content_bySchool_image{
+	width: 320px;
+	height: 190px;
+	margin-bottom: 8px;
+	filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod='scale')";
+	-moz-background-size:100% 100%;background-size:100% 100%; 
+}
+.microLesson_contentBlock_content_bySchool_image_bottomText{
+	width: 100%;
+	height: 25px;
+	background: rgba(0,0,0,0.5);
+	color: white;
+	line-height: 25px;
+	font-size: 12px;
+}
+.microLesson_contentBlock_content_bySchool_image_bottomText_left{
+	height: 100%;
+	max-width: 50%;
+	margin-left: 5px;
+	overflow:hidden;text-overflow:ellipsis;white-space:nowrap;
+	float: left;
+}
+.microLesson_contentBlock_content_bySchool_image_bottomText_right{
+	height: 100%;
+	max-width: 40%;
+	margin-right: 10px;
+	overflow:hidden;text-overflow:ellipsis;white-space:nowrap;
+	float: right;
+}
+
+
+
+.gengduoList{
+	float:right;
+	margin-top: 20px;
+	color:#41A6EE;
+}

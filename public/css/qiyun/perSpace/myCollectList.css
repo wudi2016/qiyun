@@ -1,0 +1,130 @@
+/*-------       list页     --------*/
+*{
+    -webkit-margin-before:0px;
+    -webkit-margin-after:0px;
+    -webkit-padding-start:0px;
+    text-shadow:0 0;margin: 0; padding:0;
+}
+
+.list-items li{
+    list-style:none;
+}
+
+.hidden{
+    display:none;
+}
+.body{
+    width:1000px;
+    height:auto;
+    /*height:500px;  */                   /*tem*/
+    /*background: gray;  */                   /*tem*/
+    position: relative;
+    left:50%;
+    margin-left: -500px;
+}
+
+.posi{
+    width:100%;
+    height:35px;
+    border:1px solid #E1E1E1;
+    margin-bottom:20px;
+    background: #F5F5F5;
+}
+.li_home{
+    width:50px;
+    height:35px;
+    float: left;
+    text-align: right;
+    line-height:35px;
+    background: url('/image/qiyun/resource/icon2.png') 10px -598px;
+}
+.li_nxt{
+    width:auto;
+    height:35px;
+    padding:0 10px;
+    line-height:35px;
+    float: left;
+}
+
+.li_bar{
+    width:100%;
+    height:170px;
+    margin-bottom: 25px;
+    background:url('/image/qiyun/resource/a.png') no-repeat;
+}
+
+
+.list-items{
+    width:100%;
+    min-height:600px;
+    /*background: red;*/
+}
+
+.head-items{
+    width:100%;
+    height:35px;
+    float:left;
+    background: #E1E1E1;
+    line-height: 35px;
+}
+.repeat-items{
+    width:100%;
+    height:40px;
+    line-height:40px;
+}
+.repeat-items span,.head-items span{
+    display: block;
+    width:24%;
+    height:35px;
+    float:left;
+    margin-left:5px;
+    text-align: left;
+    overflow: hidden;
+    text-overflow: ellipsis;/*文字隐藏后添加省略号*/
+    white-space: nowrap;/*强制不换行*/
+}
+.repeat-items span{
+    height:50px;
+    line-height:50px;
+    border-bottom:1px dashed #ccc;
+}
+.repeat-items span a{
+    color:#41a5f0;
+    cursor: pointer;
+}
+
+
+/*分页*/
+.li_page{
+    width:100%;
+    height:20px;
+    margin:80px 250px 80px;
+    /*margin-bottom: 80px;*/
+    text-align:center;
+    /*background: green; */                 /* tem*/
+}
+.li_page_con{
+    width:auto;
+    height:20px;
+    /*background: red; */                  /* tem*/
+    display:inline-block;
+    text-align:left;
+}
+.pg{
+    width:20px;
+    height:20px;
+    line-height:20px;
+    text-align: center;
+    float: left;
+    margin-right:10px;
+    border:1px solid #DDDDDD;
+}
+.pg_n{
+    background:#5B8ED0;
+    color:#ffffff;
+}
+.li_nxt{
+    color:#000000;
+}
+
+/*-------       list结束   --------

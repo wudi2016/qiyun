@@ -1,0 +1,82 @@
+.posi{
+	width:998px;
+	height:35px;
+	border:1px solid #E1E1E1;
+	margin: 10px auto;
+	background: #F5F5F5;
+}
+.li_home{
+	width:50px;
+	height:35px;
+	float: left;
+	text-align: right;
+	line-height:35px;
+	background: url(/image/qiyun/icon2.png) 10px -598px;
+	/*background: url('/image/qiyun/icon2.png') 10px -598px;*/
+}
+.li_nxt{
+	width:auto;
+	height:35px;
+	padding:0 10px;
+	line-height:35px;
+	float: left;
+}
+.main_list{
+	margin:0 auto;
+	text-align:center;
+	width: 1300px;
+	min-height: 800px;
+
+}
+.main_head{
+	width: 1000px;
+	height: 400px;
+	margin:0 auto;
+	border-bottom: 2px solid #929292;
+}
+.main_bread{
+	text-align: left;
+	background: #F5F5F5;
+	width:1000px;
+	height:35px;
+	border:1px solid #CBCBCB;
+}
+.main_banner{
+	width:1000px;
+	height: 262px;
+	margin-top:10px;
+}
+.main_bott{
+	width:1000px;
+	height: 35px;
+	margin-top: 45px;
+}
+.main_bott_left{
+	float:left;
+	font-weight: bold;
+	font-size: 20px;
+}
+.main_div{
+	margin:0 auto;
+	width: 1000px;
+	height: 800px;
+	/*border: 1px solid red;*/
+}
+.main_image{
+	width: 240px;
+	height: 200px;
+	border: 1px solid #DDDDDD;
+	float: left;
+	text-align: center;
+	margin-left: 5px;
+	margin-top: 5px;
+}
+.main_image img{
+	margin-top: 20px;
+}
+.main_msg span{
+	display: block;
+	margin-top: 200px;
+	font-size: 20px;
+	font-weight: bold;
+}

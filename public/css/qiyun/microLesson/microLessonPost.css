@@ -1,0 +1,733 @@
+*{
+	margin:0;
+	padding:0;
+}
+.form{
+	margin:0px;
+	padding:0px;
+}
+/*班级小图标*/
+.class_img{
+	position:relative;
+	top:7px;
+}
+/*上传视频div*/
+.upload_video{
+	margin:0 auto;
+	width:1000px;
+	height:32px;
+	background: #24CBFF;
+}
+/*上传div_p*/
+.upload_p{
+	color:#FFFDFE;
+	font-size: 16px;
+	float:left;
+	line-height:32px;
+	margin-left:15px;
+}
+
+
+
+/*main*/
+.main{
+	width:1000px;
+	/*height:1112px;*/
+	height:auto;
+	margin: 0 auto;
+	border-top:2px dotted #ccc;
+	background: #F4F4F4;
+}
+/*form表单中的布局*/
+.div_1{
+	margin:0 auto;
+	width:900px;
+	/*height:24px;*/
+	height:auto;
+	/*border:1px solid pink;*/
+}
+/*上传视频*/
+.div1_span1{
+	position: relative;
+	right:305px;
+	width:80px;
+	height:20px;
+	/*border:1px solid red;*/
+}
+/*上传*/
+.div1_span2{
+	position: relative;
+	right:358px;
+	width:55px;
+	height:24px;
+	background: #4BEDBC;
+}
+/*支持格式说明*/
+.main_div1{
+	position: relative;
+	top:-15px;
+	left:150px;
+	width:460px;
+	height:16px;
+	text-align: left;
+	text-indent: 5px;
+	/*border:1px solid black;*/
+	color:#838383;
+}
+
+
+
+/*微课名称div*/
+.div_2{
+	margin: 0 auto;
+	position: relative;
+	top:18px;
+	width:900px;
+	height:40px;
+	/*border:1px solid red;*/
+}
+/*微课名称span1*/
+.div2_span1{
+	width:80px;
+	position: relative;
+	right:165px;
+	/*border: 1px solid pink;*/
+}
+/* 输入框 */
+.div2_span2{
+	position: relative;
+	right:155px;
+	width:440px;
+	height:22px;
+}
+
+
+
+/*内容简介div*/
+.div_3{
+	position: relative;
+	top:15px;
+	margin: 0 auto;
+	width:900px;
+	height:160px;
+	/*border:1px solid green;*/
+}
+/*内容介绍文字span*/
+.div3_span1{
+	position: relative;
+	bottom:138px;
+	right:152px;
+	width:80px;
+	height:22px;
+}
+/*文本框*/
+.div3_textarea1{
+	position: relative;
+	right:145px;
+	width:460px;
+	height:150px;
+	resize:none;
+}
+
+
+
+/*所属分类div*/
+.div_4{
+	position: relative;
+	top:25px;
+	margin: 0 auto;
+	width:1000px;
+	height:160px;
+	/*border: 1px solid #949494*/
+}
+
+/*所属分类字体span*/
+.div4_span1{
+	/*position: relative;
+	left:13px;*/
+	float: left;
+	margin-left: 75px;
+	width:80px;
+}
+/*nav总div*/
+.div4_nav{
+	float:left;
+	/*margin-right:224px;*/
+	width:820px;
+	height:90px;
+	border: 1px solid #949494;
+}
+/*nav一*/
+.div4_nav1{
+	position: relative;
+	/*margin: 0 auto;*/
+	top:5px;
+	width:820px;
+	height:25px;
+	border-bottom:1px dotted #B7B7B7; 
+}
+#nav1_a{
+	font-size:15px;
+	line-height:25px;
+	width:40px;
+	/*width:auto;*/
+	float:left;
+}
+.nav1_b{
+	width:65px;
+	line-height:25px;
+	float:left;
+	font-size:12px;
+}
+.nav1_c{
+	width:65px;
+	line-height:25px;
+	float:left;
+	font-size:12px;
+}
+.nav1_d{
+	width:65px;
+	line-height:25px;
+	float:left;
+	font-size:12px;
+}
+/*蓝色小横线*/
+/*.div4_blue_line{
+	width:33px;
+	position: relative;
+	top:3px;
+	left:55px;
+	border: 1px solid #41A6EC;
+}*/
+/*nav二*/
+.div4_nav2{
+	/*position: relative;*/
+	margin-top:5px;
+	top:15px;
+	width:820px;
+	height:30px;
+	border-bottom:1px dotted #B7B7B7; 
+}
+
+#nav2_a{
+	font-size:15px;
+	/*line-height:25px;*/
+	width:40px;
+	float:left;
+	margin-top: 5px;
+	margin-left: -0px;
+}
+#nav2_a_k{
+	font-size:15px;
+	/*line-height:25px;*/
+	width:40px;
+	float:left;
+	margin-top: -2px;
+	margin-left: -0px;
+}
+#nav2_b{
+	font-size:12px;
+	width:55px;
+	line-height:25px;
+	float:left;
+	margin-left: -5px;
+}
+
+#nav2_c{
+	font-size:12px;
+	width:65px;
+	/*line-height:25px;*/
+	margin-top: 8px;
+	float:left;
+}
+#nav2_d{
+	font-size:12px;
+	width:55px;
+	line-height:25px;
+	float:left;
+}
+#nav2_e{
+	font-size:12px;
+	width:55px;
+	line-height:25px;
+	float:left;
+}
+#nav2_f{
+	font-size:12px;
+	width:55px;
+	line-height:25px;
+	float:left;
+}
+#nav2_g{
+	font-size:12px;
+	width:55px;
+	line-height:25px;
+	float:left;
+}
+#nav2_h{
+	font-size:12px;
+	width:55px;
+	line-height:25px;
+	float:left;
+}
+#nav2_i{
+	font-size:12px;
+	width:55px;
+	line-height:25px;
+	float:left;
+}
+
+
+
+/*nav三*/
+.div4_nav3{
+	position: relative;
+	margin-top:-5px;
+	top:10px;
+	width:545px;
+	height:25px;
+	/*border:1px dotted #ccc; */
+}
+.nav3_a{
+	font-size:12px;
+	line-height:25px;
+	width:65px;
+	/*width:auto;*/
+	float:left;
+	padding: 0 3px;
+	margin-top: -3px;
+}
+#nav3_b{
+	font-size:12px;
+	width:40px;
+	line-height:25px;
+	float:left;
+}
+#nav3_c{
+	font-size:12px;
+	width:40px;
+	line-height:25px;
+	float:left;
+}
+#nav3_d{
+	font-size:12px;
+	width:40px;
+	line-height:25px;
+	float:left;
+}
+#nav3_e{
+	font-size:12px;
+	width:55px;
+	line-height:25px;
+	float:left;
+}
+#nav3_f{
+	font-size:12px;
+	width:55px;
+	line-height:25px;
+	float:left;
+}
+#nav3_g{
+	font-size:12px;
+	width:55px;
+	line-height:25px;
+	float:left;
+}
+#nav3_h{
+	font-size:12px;
+	width:55px;
+	line-height:25px;
+	float:left;
+}
+#nav3_i{
+	font-size:12px;
+	width:55px;
+	line-height:25px;
+	float:left;
+}
+#nav3_img{
+	float:right;
+	margin-right:26px;
+}
+
+
+
+/*上传片头*/
+.div_5{
+	margin: 0 auto;
+	position: relative;
+	top:23px;
+	width:900px;
+	/*height:160px;*/
+	height:auto;
+}
+/*上传片头*/
+.div5_span1{
+	position: relative;
+	right:368px;
+	width:80px;
+	/*border: 1px solid red;*/
+}
+.div5_span2{
+	position: relative;
+	right:362px;
+	width:55px;
+	background: #4BEDBC;
+}
+.div5_img{
+	position: relative;
+	left:105px;
+	width:165px;
+	height:auto;
+	top:-15px;
+	/*border: 1px solid red;*/
+}
+
+
+
+
+/*上传封面*/
+.div_6{
+	margin: 0 auto;
+	position: relative;
+	top:38px;
+	width:900px;
+	/*height:160px;*/
+	height:auto;
+}
+/*上传封面*/
+.div6_span1{
+	position: relative;
+	right:368px;
+	width:80px;
+	/*border: 1px solid red;*/
+}
+.div6_span2{
+	position: relative;
+	right:362px;
+	width:55px;
+	background: #4BEDBC;
+}
+.div6_img{
+	position: relative;
+	left:105px;
+	width:165px;
+	height:auto;
+	top:-15px;
+	/*border: 1px solid red;*/
+}
+
+
+
+
+/*课程类型*/
+.div_7{
+	margin: 0 auto;
+	position: relative;
+	top:55px;
+	width:900px;
+	
+}
+/*课程类型文字*/
+.div7_span1{
+	position: relative;
+	right:360px;
+	width:80px;
+	/*border: 1px solid red;*/
+}
+.div7_select{
+	position: relative;
+	right:340px;
+	width:55px;
+	height:auto;
+}
+
+
+
+
+/*预览*/
+.div_8{
+	margin: 0 auto;
+	width:900px;
+	height:auto;
+	position: relative;
+	top:100px;
+	/*border: 1px solid #ccc;*/
+}
+.div8_div{
+	float:left;
+	margin-left:20px;
+	position: relative;
+	width:60px;
+	height:auto;
+	background: #4BEDBC;
+}
+
+.div8_div a{
+	text-decoration:none;
+}
+
+
+/*底横线*/
+.div_9{
+	/*position: relative;*/
+	/*top:120px;*/
+	margin:0 auto; 
+	width:860px;
+	height:130px;
+	border-bottom:2px solid #CFCFCF;
+}
+
+
+
+
+
+/*条款*/
+.div_10{
+	margin: 30px auto;
+	width:900px;
+	height:30px;
+	/*position: relative;*/
+	/*top:160px;*/
+	/*border: 1px solid red*/
+}
+.div10_checkbox{
+	position: relative;
+	top:3px;
+}
+.div10_span1{
+	color:#616161;
+	
+}
+.div10_span2{
+	color:#42A7ED;
+}
+
+
+
+/*确定及取消*/
+.div_11{
+	margin: 20px auto 40px;
+	/*position: relative;*/
+	/*top:180px;*/
+	width:900px;
+	height:50px;
+	/*border: 1px solid green*/
+}
+
+
+/*隐藏div1*/
+.div4_nav2_hide{
+	display:none;
+	position: relative;
+	margin: 0 auto;
+	top:10px;
+	width:780px;
+	height:25px;
+	border-bottom:1px dotted #B7B7B7;
+}
+/*隐藏div2*/
+.div4_nav3_hide{
+	display:none;
+	position: relative;
+	margin: 0 auto;
+	top:15px;
+	width:545px;
+	height:25px;
+}
+
+.selected{
+	/*border-bottom:3px solid #41A6EC;
+	color:#41A6EC;*/
+}
+
+.hide{
+	display: none;
+}
+
+.div4_nav1 div{
+	cursor: pointer;
+}
+.div4_nav2 div{
+	cursor: pointer;
+}
+.div4_nav3 div{
+	cursor: pointer;
+}
+
+
+.now{
+	color:#41A6EC;
+}
+.up_po{
+	width:400px;
+	height:auto;
+	position: relative;
+	top:-25px;
+	left:100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#file_upload{
+	width:163px;
+	height:42px;
+	position:relative;
+	top:0;
+	left:0;
+	opacity: 0;
+}
+
+#file_uploada{
+	width:163px;
+	height:42px;
+	position:relative;
+	top:0;
+	left:0;
+	opacity: 0;
+}
+
+#file_uploadb{
+	width:163px;
+	height:42px;
+	position:relative;
+	top:0;
+	left:0;
+	opacity: 0;
+}
+
+#SWFUpload_0{
+	position: relative;
+	/*top: -23px;*/
+	left:30px;
+}
+#SWFUpload_1{
+	position: relative;
+	/*top: -23px;*/
+	left:0px;
+}
+
+#SWFUpload_2{
+	position: relative;
+	/*top: -23px;*/
+	left:0px;
+}
+
+/*
+Uploadify
+Copyright (c) 2012 Reactive Apps, Ronnie Garcia
+Released under the MIT License <http://www.opensource.org/licenses/mit-license.php>
+*/
+
+.uploadify {
+	position: relative;
+	margin-bottom: 1em;
+}
+.uploadify-button {
+	/*background-color: #41A6EE;*/
+	/*	background-color: #505050;
+        background-image: linear-gradient(bottom, #505050 0%, #707070 100%);
+        background-image: -o-linear-gradient(bottom, #505050 0%, #707070 100%);
+        background-image: -moz-linear-gradient(bottom, #505050 0%, #707070 100%);
+        background-image: -webkit-linear-gradient(bottom, #505050 0%, #707070 100%);
+        background-image: -ms-linear-gradient(bottom, #505050 0%, #707070 100%);
+        background-image: -webkit-gradient(
+            linear,
+            left bottom,
+            left top,
+            color-stop(0, #505050),
+            color-stop(1, #707070)
+        );*/
+	background-position: center top;
+	background-repeat: no-repeat;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	border-radius: 30px;
+	/*border: 2px solid #41A6EE;*/
+	color: #FFF;
+	font: bold 12px Arial, Helvetica, sans-serif;
+	text-align: center;
+	text-shadow: 0 -1px 0 rgba(0,0,0,0.25);
+	width: 100%;
+}
+.uploadify:hover .uploadify-button {
+	/*background-color: #1590ED;*/
+
+	/*	background-color: #606060;
+        background-image: linear-gradient(top, #606060 0%, #808080 100%);
+        background-image: -o-linear-gradient(top, #606060 0%, #808080 100%);
+        background-image: -moz-linear-gradient(top, #606060 0%, #808080 100%);
+        background-image: -webkit-linear-gradient(top, #606060 0%, #808080 100%);
+        background-image: -ms-linear-gradient(top, #606060 0%, #808080 100%);
+        background-image: -webkit-gradient(
+            linear,
+            left bottom,
+            left top,
+            color-stop(0, #606060),
+            color-stop(1, #808080)
+        );*/
+	background-position: center bottom;
+}
+.uploadify-button.disabled {
+	background-color: #D0D0D0;
+	color: #808080;
+}
+.uploadify-queue {
+	margin-bottom: 1em;
+}
+.uploadify-queue-item {
+	background-color: #F5F5F5;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	font: 11px Verdana, Geneva, sans-serif;
+	margin-top: 5px;
+	max-width: 350px;
+	padding: 10px;
+}
+.uploadify-error {
+	background-color: #FDE5DD !important;
+}
+.uploadify-queue-item .cancel a {
+	background: url('./uploadify-cancel.png') 0 0 no-repeat;
+	float: right;
+	height:	16px;
+	text-indent: -9999px;
+	width: 16px;
+}
+.uploadify-queue-item.completed {
+	background-color: #E5E5E5;
+}
+.uploadify-progress {
+	background-color: #E5E5E5;
+	margin-top: 10px;
+	width: 100%;
+}
+.uploadify-progress-bar {
+	background-color: #0099FF;
+	height: 3px;
+	width: 1px;
+}
+
+
+.img_weike{
+	position: relative;
+	right:296px;
+	top:16px;
+}
+

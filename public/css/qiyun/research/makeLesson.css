@@ -1,0 +1,851 @@
+.posi{
+	width:998px;
+	height:35px;
+	border:1px solid #E1E1E1;
+	margin-bottom:20px;
+	background: #F5F5F5;
+}
+.li_home{
+	width:50px;
+	height:35px;
+	float: left;
+	text-align: right;
+	line-height:35px;
+	background: url(/image/qiyun/icon2.png) 10px -598px;
+	/*background: url('/image/qiyun/icon2.png') 10px -598px;*/
+}
+.li_nxt{
+	width:auto;
+	height:35px;
+	padding:0 10px;
+	line-height:35px;
+	float: left;
+}
+input{
+	font-size: 16px;
+	padding-left: 10px;
+}
+
+select{
+	font-size: 16px;
+	padding-left: 10px;
+}
+select option{
+	padding-left: 10px;
+}
+.main_list{
+	margin:0 auto;
+	text-align:center;
+	width: 1300px;
+	min-height: 1460px;
+}
+.main_head{
+	width: 1000px;
+	height: 400px;
+	border-bottom: 2px solid #ddd;
+	margin:0 auto;
+}
+.main_bread{
+	text-align: left;
+	background: #F5F5F5;
+	width:1000px;
+	height:35px;
+	border:1px solid #CBCBCB;
+}
+.main_banner{
+	width:1000px;
+	height: 262px;
+	margin-top:10px;
+
+}
+.main_bott{
+	width:1000px;
+	height: 35px;
+	margin-top: 45px;
+}
+.main_bott_left{
+	float:left;
+	font-weight: bold;
+	font-size: 20px;
+}
+.main_bott_right{
+	float:right;
+}
+.main_bott_right img{
+	display: inline;
+	margin-right:10px;
+	margin-top: 7px;
+}
+.main_bott_right span{
+	position: relative;
+	top:-4px;
+	font-weight: bold;
+	font-size: 16px;
+	color:#F37578;
+}
+
+.main_form{
+	margin:  0 auto;
+	width: 1000px;
+	font-family: Arial;
+	font-size:16px;
+	color:#6f6f71;
+}
+.main_form_first{
+	float:left;
+	text-align:left;
+	margin-left:-18px;
+	line-height: 30px;
+}
+.first_name{
+	margin-left:35px;
+	float:left;
+}
+.first_input{
+	width:750px;
+	float:left;
+}
+.first_input input{
+	float:left;
+	margin-left:24px;
+	width:500px;
+	height:35px;
+	border:1px solid gray;
+}
+.first_text{
+	float:left;
+	margin-left:40px;
+	font-size:14px;
+}
+.main_form_image{
+	float:left;
+	text-align:left;
+	margin-left:15px;
+	margin-top: 25px;
+	line-height: 30px;
+}
+.main_form_image .first_input{
+	margin-left:24px;
+}
+
+.uploadarea_bar_r_msg{
+	font-size:14px;
+}
+#btnSub_content{
+	width:106px;
+	height:32px;
+	border:0;
+	cursor: pointer;
+	background-color: #00A2E8;
+	color:white;
+}
+#btnRes_content{
+	margin-left: 10px;
+	width:106px;
+	height:32px;
+	border:0px;
+	cursor: pointer;
+	color:transparent;
+	background: url('/image/qiyun/research/addEvaluation/9.png') no-repeat;
+}
+/*
+Uploadify
+Copyright (c) 2012 Reactive Apps, Ronnie Garcia
+Released under the MIT License <http://www.opensource.org/licenses/mit-license.php>
+*/
+#file_upload{
+	/*margin-left: 24px;*/
+}
+#file_upload-button span{
+	float:left;
+	display: block;
+	cursor: pointer;
+	padding: 1px 28px;
+	background-color: #41a6ee;
+	color: white;
+	border-radius: 2px;
+}
+.uploadify {
+	position: relative;
+	margin-bottom: 1em;
+}
+.uploadify-button.disabled {
+	background-color: #D0D0D0;
+	color: #808080;
+}
+.uploadify-queue {
+	margin-bottom: 1em;
+}
+.uploadify-queue-item {
+	background-color: #F5F5F5;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	font: 11px Verdana, Geneva, sans-serif;
+	margin-top: 5px;
+	max-width: 350px;
+	padding: 10px;
+}
+.uploadify-error {
+	background-color: #FDE5DD !important;
+}
+.uploadify-queue-item .cancel a {
+	/*background: url('./uploadify-cancel.png') 0 0 no-repeat;*/
+	float: right;
+	height:	16px;
+	text-indent: -9999px;
+	width: 16px;
+}
+.uploadify-queue-item.completed {
+	background-color: #E5E5E5;
+}
+.uploadify-progress {
+	background-color: #E5E5E5;
+	margin-top: 10px;
+	width: 100%;
+}
+.uploadify-progress-bar {
+	background-color: #0099FF;
+	height: 3px;
+	width: 1px;
+}
+.main_form_second{
+	float:left;
+	text-align:left;
+	margin-left:15px;
+	margin-top:25px;
+	line-height: 30px;
+}
+.second_type{
+	letter-spacing: 2px;
+	width:500px;
+	/*float:left;*/
+}
+.second_type select{
+	/*float:left;*/
+	margin-left:24px;
+	width:220px;
+	height:35px;
+	border:1px solid gray;
+	font-size:16px;
+}
+.main_form_third{
+	float:left;
+	text-align:left;
+	margin-left:15px;
+	line-height: 30px;
+	margin-top:28px;
+}
+.third_text{
+	float: left;
+
+}
+.third_input{
+	width:500px;
+	float:left;
+}
+.third_input input{
+	float:left;
+	margin-left:24px;
+	width:220px;
+	height:35px;
+	border:1px solid gray;
+}
+.third_img{
+	position: absolute;
+	z-index: 1;
+	margin-left: 218px;
+	margin-top:7px;
+	width:21px;
+	height:21px;
+	background:url('/image/qiyun/research/addEvaluation/2.png') no-repeat;
+}
+.main_form_four{
+	float:left;
+	text-align:left;
+	margin-left:25px;
+	line-height: 30px;
+	margin-top:25px;
+}
+.four_name{
+	margin-left:25px;
+	float:left;
+}
+.four_time{
+	float: left;
+
+}
+.four_input{
+	width:230px;
+	float:left;
+}
+.four_input input{
+	float:left;
+	margin-left:24px;
+	width:220px;
+	height:35px;
+	border:1px solid gray;
+}
+.four_input1 {
+	width:230px;
+	float:left;
+}
+.four_input1 input{
+	float:left;
+	margin-left:27px;
+	width:220px;
+	height:35px;
+	border:1px solid gray;
+}
+.four_zhi{
+	float:left;
+	margin-left:70px;
+}
+.four_img{
+	position: absolute;
+	z-index: 1;
+	margin-left: 218px;
+	margin-top:7px;
+	width:21px;
+	height:21px;
+	background:url('/image/qiyun/research/addEvaluation/2.png') no-repeat;
+}
+.four_img1{
+	position: absolute;
+	z-index: 1;
+	margin-left: 218px;
+	margin-top:7px;
+	width:21px;
+	height:21px;
+	background:url('/image/qiyun/research/addEvaluation/2.png') no-repeat;
+}
+.selectMainMan{
+	width:700px;
+	height:500px;
+	background:#fff;
+	z-index: 2;
+	box-shadow:-1px 4px 20px 3px #ccc;
+	border-radius: 3px;
+	position: fixed;
+	top: 50%;
+	left:50%;
+	margin-left: -350px;
+	margin-top:-250px;
+}
+.chooseGroup{
+	position: fixed;
+	width:700px;
+	height:500px;
+	background:#fff;
+	z-index: 2;
+	box-shadow:-1px 4px 20px 3px #ccc;
+	border-radius: 3px;
+
+	top: 50%;
+	left:50%;
+	margin-left: -350px;
+	margin-top:-250px;
+}
+.hide{
+	display: none;
+}
+
+.shadow{
+	width: 2000px;
+	height: 1000px;
+	background-color: #929292;
+	display: none;
+	position:fixed;
+	z-index: 1;
+	opacity: 0.3;
+	filter:alpha(opacity=30);
+	left: 0px;
+	top: 0px
+}
+
+
+
+/*=======================================遮罩层（评课自备人）============================================*/
+.content{
+	width:700px;
+	height:480px;
+}
+.selector{
+	font-size:14px;
+	text-align: left;
+	margin-left:35px;
+	width: 665px;
+	height: 30px;
+	color: black;
+}
+.selector select{
+	font-size:14px;
+	height: 30px;
+	margin-left:10px;
+}
+.selector select:first-child{
+	width: 120px;
+}
+
+.selector .stMainMan{
+	font-size:14px;
+	width: 60px;
+	height: 25px;
+	background:#41A6EE;
+	color:#fff;
+	cursor: pointer;
+	margin-right: 45px;
+	line-height: 25px;
+	text-align: center;
+	float: right;
+}
+.accurateSelect{
+	font-size:14px;
+	text-align: left;
+	margin-left:35px;
+	color: #000;
+}
+.accurateSelect .accurateMainMan{
+	background-color: #41a6ee;
+	color:#fff;
+	padding: 5px 20px;
+	margin-left: 10px;
+	cursor: pointer;
+}
+.accurateSelect input{
+	width: 190px;
+	height:30px;
+	font-size:14px;
+	text-align: left;
+	margin-left:10px;
+	border:1px solid #6f6f71;
+}
+.button_btn_span{
+	text-align: center;
+	width: 60px;
+	height: 25px;
+	line-height: 25px;
+	font-size:14px;
+	color: #fff;
+	float: right;
+	margin-right:45px;
+	cursor: pointer;
+	background: #41a6ee;
+	margin-top:5px;
+}
+.name_option{
+	margin-left:35px;
+	width: 640px;
+	height: 280px;
+	text-align: left;
+	float:left;
+	font-size:14px;
+	color: #6f6f71;
+	overflow: auto;
+}
+.group_option{
+	margin-left:35px;
+	width:90%;
+	text-align: left;
+	float:left;
+	font-size:14px;
+	color: #6f6f71;
+}
+.group_option .name_option_first{
+	width:640px;
+	min-height:220px;
+	margin-top:5px;
+	overflow:auto;
+}
+.name_option_first{
+	width:623px;
+	height:40px;
+	margin-top:5px;
+}
+.name_option_first input{
+	position: relative;
+	top:2px;
+}
+.div_span_radio1{
+	display: list-item;
+	width:207px;
+	height:30px;
+	line-height:30px;
+	float:left;
+	overflow: hidden;
+	margin-top:5px;
+}
+.div_span_radio2{
+	float:left;
+	width:208px;
+	text-align: center;
+}
+.div_span_radio3{
+	float:right;
+	width:200px;
+	text-align: right;
+}
+
+
+
+/*=======================================遮罩层（评课自备人）结束============================================*/
+.main_form_five{
+	float:left;
+	text-align:left;
+	margin-left:15px;
+	line-height: 30px;
+	margin-top:28px;
+}
+.main_form_five_group{
+	float:left;
+	text-align:left;
+	margin-left:15px;
+	line-height: 30px;
+	margin-top:15px;
+}
+
+.result{
+	width: 700px;
+	height: 25px;
+	margin-bottom:1px;
+}
+.result_group{
+	float: left;
+	display: block;
+	color: #fff;
+	cursor: pointer;
+	width: 70px;
+	height: 25px;
+	line-height:25px;
+	background: #41a6ee;
+	margin-left: 250px;
+}
+.reset_group{
+	float: left;
+	display: block;
+	color: #fff;
+	cursor: pointer;
+	width: 70px;
+	height: 25px;
+	line-height: 25px;
+	margin-left: 30px;
+	background: #41a6ee;
+}
+.five_name{
+	margin-left:45px;
+	float:left;
+}
+.five_text{
+	float: left;
+}
+.five_img{
+	float:left;
+}
+.five_img span{
+	/*float:left;*/
+	text-align: center;
+	margin-left:30px;
+	display: block;
+	width:120px;
+	height: 30px;
+	color: white;
+	padding: 1px 12px;
+	/*background-color: #41A6EE;*/
+	background-color: #cccccc;
+}
+#choose{
+	cursor: pointer;
+	width:140px;
+	height: 29px;
+	position: absolute;
+	z-index: 1;
+	margin-left: 30px;
+	opacity: 0;
+	filter:alpha(opacity=0);
+}
+#chooseGroup{
+	cursor: pointer;
+	width:140px;
+	height: 29px;
+	position: absolute;
+	z-index: 1;
+	margin-left: 30px;
+	opacity: 0;
+	filter:alpha(opacity=0);
+}
+.five_checkbox{
+	float: left;
+}
+.five_checkbox1{
+	float:left;
+}
+.five_checkbox1 span{
+	/*float:left;*/
+	text-align: center;
+	margin-left:30px;
+	display: block;
+	width:120px;
+	height: 30px;
+	color: white;
+	padding: 1px 12px;
+	background-color: #cccccc;
+	/*background-color: #cccccc;*/
+}
+#myis{
+	cursor: pointer;
+	width:140px;
+	height: 29px;
+	position: absolute;
+	z-index: 1;
+	margin-left: 30px;
+	opacity: 0;
+	filter:alpha(opacity=0);
+}
+.five_checkbox2{
+	float:left;
+	margin-left:5px;
+}
+
+/*six*/
+.main_form_six{
+	float:left;
+	width:1000px;
+	height: 50px;
+	text-align:left;
+	margin-left:15px;
+	line-height: 30px;
+	margin-top:28px;
+}
+.six_type{
+	float:left;
+}
+.six_type select{
+	float:left;
+	margin-left:24px;
+	width:120px;
+	height:35px;
+	border:1px solid gray;
+}
+.six_type1{
+	float:left;
+}
+.six_type1 select{
+	float:left;
+	margin-left:14px;
+	width:120px;
+	height:35px;
+	border:1px solid gray;
+}
+
+.six_type2{
+	float:left;
+}
+.six_type2 select{
+	float:left;
+	margin-left:14px;
+	width:265px;
+	height:35px;
+	border:1px solid gray;
+}
+.main_form_seven{
+	float:left;
+	text-align:left;
+	margin-left:15px;
+	line-height: 30px;
+	margin-top:13px;
+}
+.seven_temp{
+	float:left;
+}
+.seven_temp span{
+	text-align: center;
+	float:left;
+	margin-left: 25px;
+	display: block;
+	height: 30px;
+	width: 120px;
+	background-color: #cccccc;
+	color: white;
+}
+.seven_temp1{
+	float: left;
+}
+.seven_temp1 span{
+	color: white;
+	text-align: center;
+	float:left;
+	margin-left: 25px;
+	display: block;
+	height: 30px;
+	width: 120px;
+	background-color: #cccccc;
+}
+#default{
+	cursor: pointer;
+	width:120px;
+	height: 27px;
+	position: absolute;
+	z-index: 1;
+	margin-left: -120px;
+	opacity: 0;
+	filter:alpha(opacity=0);
+}
+#mytpl{
+	cursor: pointer;
+	width:120px;
+	height: 27px;
+	position: absolute;
+	z-index: 1;
+	margin-left: -120px;
+	opacity: 0;
+	filter:alpha(opacity=0);
+}
+.area_width{
+	margin-top:25px;
+}
+.eight_area{
+	float: left;
+}
+.eight_area textarea{
+	float: left;
+	border:1px solid gray;
+	margin-left: 20px;
+}
+
+.main_form_nine{
+	float:left;
+	width:1000px;
+	height: 50px;
+	/*border: 1px solid red;*/
+	text-align:left;
+	margin-left:125px;
+	line-height: 30px;
+	margin-top:22px;
+}
+.main_form_nine div{
+	float: left;
+}
+.main_form_nine .invite :last-child{
+	margin-left: 10px;
+}
+.main_form_nine .invite :nth-child(2){
+	position: absolute;
+	z-index: 1;
+	margin-left: 14px;
+	margin-top: 12px;
+}
+.main_form_nine .invite :nth-child(3){
+	margin-left: 9px;
+	margin-bottom: 5px;
+}
+.main_form_nine .allopen :last-child{
+	margin-left: 10px;
+}
+.main_form_nine .allopen :nth-child(2){
+	position: absolute;
+	z-index: 1;
+	margin-left: 14px;
+	margin-top: 11px;
+}
+.main_form_nine .allopen :nth-child(3){
+	margin-left: 9px;
+	margin-bottom: 7px;
+}
+
+.main_form_ten{
+	margin-top:80px;
+	margin-right:130px;
+}
+.checked{
+	margin-right:20px;
+}
+
+
+#btnSub{
+	width:115px;
+	height:32px;
+	border:0px;
+	cursor: pointer;
+	background-color: #41a6ee;
+	color: white;
+	font-size:16px;
+}
+#btnRes{
+	width:115px;
+	height:32px;
+	border:0px;
+	margin-left: 10px;
+	cursor: pointer;
+	background-color: #8c8c8c;
+	color: white;
+	font-size:16px;
+}
+
+.subject_target{
+	margin-top: 50px;
+	width: 1000px;
+	height: 450px;
+	text-align: left;
+}
+.first_target{
+	margin-top: 30px;
+	width: 1000px;
+	height: 30px;
+	float:left;
+	font-weight: bold;
+	font-size: 20px;
+	color: black;
+	border-bottom: 2px solid #ddd;
+}
+.second_target{
+	width: 980px;
+	height: 35px;
+	color: #bbb;
+	line-height: 35px;
+	padding-left: 20px;
+	font-size: 14px;
+	border: 1px solid #DDDDDD;
+	margin-top: 20px;
+}
+.third_target{
+	width: 1000px;
+	height: 330px;
+	border-bottom: 1px solid #DDDDDD;
+	border-left: 1px solid #DDDDDD;
+	border-right: 1px solid #DDDDDD;
+}
+.third_target .third_target_first{
+	width: 900px;
+	height: 35px;
+	margin-left: 40px;
+	padding-top: 30px;
+}
+.third_target .third_target_first input{
+	margin-left:24px;
+	font-size: 14px;
+	width:500px;
+	height:35px;
+	border:1px solid gray;
+}
+.third_target .third_target_last{
+	width: 900px;
+	height: 150px;
+	margin-left: 40px;
+	margin-top: 30px;
+}
+.third_target .third_target_last span{
+	display: block;
+	float: left;
+}
+.third_target .third_target_last textarea{
+	font-size: 14px;
+	letter-spacing: 2px;
+	margin-left:28px;
+	padding-left: 15px;
+	padding-top: 10px;
+	float: left;
+	width:500px;
+	resize: none;
+	height:150px;
+	border:1px solid gray;
+}

@@ -1,0 +1,311 @@
+.posi{
+	width:998px;
+	height:35px;
+	border:1px solid #E1E1E1;
+	margin: 10px auto;
+	background: #F5F5F5;
+}
+.li_home{
+	width:50px;
+	height:35px;
+	float: left;
+	text-align: right;
+	line-height:35px;
+	background: url(/image/qiyun/icon2.png) 10px -598px;
+	/*background: url('/image/qiyun/icon2.png') 10px -598px;*/
+}
+.li_nxt{
+	width:auto;
+	height:35px;
+	padding:0 10px;
+	line-height:35px;
+	float: left;
+}
+#file_upload-button{
+	display: none;
+}
+#SWFUpload_0{
+	cursor: pointer;
+	position: absolute;
+	z-index:2;
+	margin-left:238px;
+	margin-top: -45px;
+	width:205px;
+	height:45px;
+	/*opacity: 0;*/
+	/*border: 1px solid red;*/
+}
+.uploadify {
+	position: relative;
+	margin-bottom: 1em;
+}
+.uploadarea_bar_r_msg{
+	height: 20px;
+	margin-top: -25px;
+	position: absolute;
+	width: 800px;
+}
+.uploadify-button.disabled {
+	background-color: #D0D0D0;
+	color: #808080;
+}
+.uploadify-queue {
+	margin-bottom: 1em;
+	margin-left:225px;
+	margin-top: -40px;
+	height: 20px;
+}
+.uploadify-queue-item {
+	background-color: #F5F5F5;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	font: 11px Verdana, Geneva, sans-serif;
+	margin-top: 5px;
+	max-width: 350px;
+	padding: 10px;
+}
+.uploadify-error {
+	background-color: #FDE5DD !important;
+}
+.uploadify-queue-item .cancel a {
+	background: url('./uploadify-cancel.png') 0 0 no-repeat;
+	float: right;
+	height:	16px;
+	text-indent: -9999px;
+	width: 16px;
+}
+.uploadify-queue-item.completed {
+	background-color: #E5E5E5;
+}
+.uploadify-progress {
+	background-color: #E5E5E5;
+	margin-top: 10px;
+	width: 100%;
+}
+.uploadify-progress-bar {
+	background-color: #0099FF;
+	height: 3px;
+	width: 1px;
+}
+/*面包屑导航*/
+.crumbs{
+	margin: 0 auto;
+	width:1000px;
+	height:32px;
+	background: #F5F5F5;
+	border:1px solid #CBCBCB;
+}
+.crumbs_ul{
+	float: left;
+}
+.crumbs_ul_li_img1{
+	position: relative;
+	top:-2px;
+	left:-5px;
+}
+.crumbs_div1{
+	float: left;
+	width:80px;
+	height:33px;
+}
+.crumbs_div2{
+	width:100px;
+	height:33px;
+	float: left;
+}
+.crumbs_div3{
+	width:100px;
+	height:33px;
+	float:left;
+}
+.crumbs_div4{
+	width:100px;
+	height:33px;
+	float: left;
+}
+
+/*面包屑导航链接字体*/
+.crumbs_span2{
+	position: relative;
+	top:-10px;
+	left:-10px;
+}
+.crumbs_span3{
+	position: relative;
+	top:-10px;
+	left:-5px;
+}
+.crumbs_span4{
+	position: relative;
+	top:6px;
+	left:-15px;
+}
+
+li{
+	list-style: none;
+}
+
+
+
+
+
+
+
+/*主图div*/
+.zhutu{
+	margin: 0 auto;
+	width:1000px;
+	height:261px;
+}
+/*发布资源*/
+.main_div1{
+	margin: 0 auto;
+	width:1000px;
+	height:36px;
+	border-bottom: 1px solid #929292;
+}
+.main_div1_span{
+	float: left;
+	font-family: "SimHei";
+	font-size:24px;
+}
+/*form表单部分*/
+.form_div1{
+	margin: 0 auto;
+	width:1000px;
+	height:747px;
+	/*background: pink;*/
+}
+/*上传*/
+.form_div1_upload{
+	margin: 0 auto;
+	width:802;
+	height:130px;
+	border: 1px solid #ccc;
+}
+/*图片上传*/
+.form_div1_img{
+	margin: 0 auto;
+	width:800px;
+	height:45px;
+}
+/*文字*/
+.form_div1_span{
+	display: block;
+	margin-top:5px;
+	color:#B9B9B9;
+}
+/*资源名称*/
+.form_div1_input1{
+	width:1000px;
+	height:35px;
+	/*background: gray;*/
+}
+.form_div1_span2{
+	position: relative;
+	top:8px;
+	float: left;
+	font-family: "SimHei";
+	font-size:18px;
+}
+.form_div1_input2{
+	position: relative;
+	right:133px;
+	width:614px;
+	height:35px;
+}
+/*目录*/
+.form_div1_select{
+	width:911px;
+	height:35px;
+	/*background: gray;*/
+}
+.form_div1_span3{
+	position: relative;
+	top:8px;
+	float: left;
+	font-family: "SimHei";
+	font-size:18px;
+}
+.form_div1_select1{
+	position: relative;
+	left:12px;
+	width:94px;
+	height:35px;
+	font-size:16px;
+	font-family: "SimHei";
+}
+.form_div1_select2{
+	position: relative;
+	left:21px;
+	width:135px;
+	height:35px;
+	font-size:16px;
+	font-family: "SimHei";
+}
+.form_div1_select3{
+	position: relative;
+	left:30px;
+	width:135px;
+	height:35px;
+	font-size:16px;
+	font-family: "SimHei";
+}
+.form_div1_select4{
+	position: relative;
+	left:39px;
+	width:135px;
+	height:35px;
+	font-size:16px;
+	font-family: "SimHei";
+}
+.form_div1_select5{
+	position: relative;
+	left:48px;
+	width:265px;
+	height:35px;
+	font-size:16px;
+	font-family: "SimHei";
+}
+/*描述*/
+.form_div1_miaosu{
+	width:901px;
+	height:158px;
+	/*background: #ccc;*/
+}
+.form_div1_span4{
+	float: left;
+	font-size:18px;
+	font-family:"SimHei";
+}
+.form_div1_textarea{
+	/*color:#B9B9B9;*/
+	float: right;
+	width:802px;
+	height:158px;
+	font-size:14px;
+}
+/*取消*/
+.form_div1_fabu{
+	width:1000px;
+	height:30px;
+	/*background: #ccc;*/
+}
+#btnSub{
+	width:106px;
+	height:32px;
+	border:0px;
+	cursor: pointer;
+	color:transparent;
+	background: url('/image/qiyun/research/publishResource/2.png') no-repeat;
+}
+#btnRes{
+	margin-left: 10px;
+	width:106px;
+	height:32px;
+	border:0px;
+	cursor: pointer;
+	color:transparent;
+	background: url('/image/qiyun/research/publishResource/3.png') no-repeat;
+}

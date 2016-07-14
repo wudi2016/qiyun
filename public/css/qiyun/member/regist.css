@@ -1,0 +1,261 @@
+.daohang{
+	width:998px;
+	height:35px;
+	clear: both;
+	/*background: red;*/
+	margin:0 auto;
+	border:1px solid #C0C0C0;
+	background: #F5F5F5;
+}
+.daohang_a{
+	width:40px;
+	height:35px;
+	float: left;
+	background: url('/image/qiyun/member/register/all_image.png') 0px -1773px;
+}
+.daohang_b{
+	width:40px;
+	height:35px;
+	float: left;
+	line-height: 35px;
+	text-align: center;
+	font-size:25px;
+	color:#CED1D8;
+}
+.daohang_c{
+	width:auto;
+	height:35px;
+	float: left;
+	padding:0 5px;
+	text-align: center;
+	line-height:35px;
+}
+
+.register_directLogin{
+	width: 1000px;
+	height: 30px;
+	margin: 0 auto;
+	clear: both;
+	line-height: 30px;
+	font-size: 13px;
+	text-align: right;
+}
+.register_directLogin a{color: #5D8ED2;}
+
+#register_content{
+	width: 1000px;
+	height: 660px;
+	margin: 0 auto;
+}
+
+.register_content_title{
+	width: 998px;
+	height: 60px;
+	margin: 0 auto;
+	border: 1px solid silver;
+	background: #E6EDF7;
+}
+
+.register_content_title_block{
+	width: 180px;
+	height: 60px;
+	float: left;
+	border-right: 1px solid silver;
+	color: #5C5B59;
+	line-height: 62px;
+	text-align: center;
+	font-size: 22px;
+	cursor: pointer;
+}
+.register_content_title_block_active{
+	color: #5C8DD2;
+	background: white;
+	border-bottom: 2px solid white;
+}
+
+.register_content_title_block_person{
+	width: 35px;
+	height: 35px;
+	float: left;
+	margin: 14px -45px 0 50px;
+	filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod='scale')";
+	-moz-background-size:100% 100%;background-size:100% 350%;
+	background-image: url('/image/qiyun/member/register/person.png');
+}
+.register_content_title_block_person_active{
+	background-image: url('/image/qiyun/member/register/person_active.png');
+}
+.register_content_title_block:nth-child(2) .register_content_title_block_person{margin-right: -35px;}
+
+.register_content_form{
+	width: 1000px;
+	/*height: 500px;*/
+	height:auto;
+	position: relative;
+}
+
+.register_content_form_block{
+	width: 700px;
+	height: 40px;
+	margin: 0 auto;
+	line-height: 40px;
+	color: #4A4E52;
+	font-size: 15px;
+	font-weight: bold;
+}
+.register_content_form_block_left{
+	width: 23%;
+	height: 40px;
+	float: left;
+	/*text-align: right;*/
+	text-align: left;
+	text-indent:60px;
+}
+.register_content_form_block_right{
+	width: 75%;
+	height: 40px;
+	float: right;
+	text-align: left;
+}
+.register_content_form_block_right a{color: #5C8ED1;}
+.register_content_form_block_right input{
+	border: 1px solid silver;
+	background: none;
+	height: 30px;
+	width: 300px;
+	border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px;
+	text-indent: 10px;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.register_content_form_block_right select{
+	border: 1px solid silver;
+	background: none;
+	height: 30px;
+	width: 300px;
+	border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px;
+	text-indent: 10px;
+	font-size: 14px;
+	font-weight: bold;
+	margin-top:5px;
+}
+.register_content_form_block_right textarea{
+	border: 1px solid silver;
+	background: none;
+	height: 30px;
+	width: 300px;
+	border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px;
+	margin-top:5px;
+	resize: none;
+}
+
+.register_content_form_block_right input[type=checkbox]{
+	width: 18px;
+	height: 18px;
+	vertical-align: middle;
+}
+.register_content_form_block_right input[type=radio]{
+	width: 18px;
+	height: 18px;
+	vertical-align: middle;
+}
+.bind{
+	/*width:65px;*/
+	width:90px;
+	height:26px;
+	background:#41A6EE;
+	border: none;
+	color:#ffffff;
+    font-weight:bold;
+    /*pointer-events: none;*/
+    cursor: pointer;
+}
+.childNum{
+	width:65px;
+	height:26px;
+	background:#41A6EE;
+	border: none;
+	color:#ffffff;
+    font-weight:bold;
+    /*pointer-events: none;*/
+    cursor: pointer;	
+}
+.yzm{
+	width:auto;
+	height:26px;
+	background:#41A6EE;
+	border: none;
+	color:#E5EC22;
+    font-weight:bold;
+    cursor: pointer;
+    /*pointer-events: none;*/
+}
+.register_content_form_block_right span{
+	color: red;
+	display: none;
+}
+.register_content_form_block_right_button{
+	width: 100px;
+	height: 35px;
+	background: #41A6EE;
+	border:none;
+	font-weight: bold;
+	font-size: 15px;
+	color: white;
+	cursor: pointer;
+	border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px;
+}
+.disable{
+	background: silver;
+	pointer-events: none;
+}
+
+
+.register_errorMessage{
+	width:970px;
+	height:auto;
+	margin: 0 auto 10px;
+	padding:15px;
+	line-height:20px;
+	background: #F2DEDE;
+	color:#B94A48;
+	text-align: left;
+	font-size:12px;
+	letter-spacing: 1px;
+}
+
+.upload{
+	/*width:90px;
+	height:160px;*/
+
+    width:124px;
+	height:300px;
+
+	position: absolute;
+	top:50px;
+	left:770px;
+	/*background: url('/image/qiyun/member/register/35.png') no-repeat;*/
+}
+.upload img{
+	width:89px;
+	height:120px;
+	margin-bottom:10px;
+}
+.upload_msg{
+	width:90px;
+	height:40px;
+	line-height:40px;
+	text-align: center;
+	color:#000000;
+}
+.disable{
+	display: none;
+}
+
+#SWFUpload_0{
+    /*margin-top: 10px;*/
+    position: absolute;
+    left:0px;
+
+}
