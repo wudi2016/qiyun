@@ -1,0 +1,2549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="d002084e-8ffa-4911-a453-01e9649ec27a" name="Default" comment="" />
+    <ignored path="laravel5.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="laravel5" />
+  </component>
+  <component name="FileEditorManager">
+<<<<<<< .mine
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+||||||| .r4893
+    <leaf>
+      <file leaf-file-name="autoload_real.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vendor/composer/autoload_real.php">
+=======
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="terPerSpace.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/qiyun/perSpace/terPerSpace.blade.php">
+>>>>>>> .r4948
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+            <state relative-caret-position="-9108">
+              <caret line="650" column="0" selection-start-line="650" selection-start-column="0" selection-end-line="650" selection-end-column="0" />
+              <folding>
+                <marker date="1462443520024" expanded="false" signature="8:400" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="713:2067" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="774:2066" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="2095:2966" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="2164:2965" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="2631:2715" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="2660:2714" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="2890:2962" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="2994:13656" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="3067:13655" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="13693:15037" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="13770:15036" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="15065:18364" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="15138:18363" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="15315:15441" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="15362:15440" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="18392:19117" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="18457:19116" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="19145:21226" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="19224:21225" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="21256:21406" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="21351:21402" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="21436:24466" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="21509:24465" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="24496:24568" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="24575:24825" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="24965:25037" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="24995:25036" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="25067:30566" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="25171:30566" placeholder="{...}" />
+                <marker date="1462443520024" expanded="true" signature="25181:25358" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="26069:26247" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="27543:27722" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="30597:31361" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="30702:31360" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="31390:33821" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="31495:33820" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="33850:35311" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="33948:35310" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="35341:37480" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="35437:37479" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="37510:40243" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="37608:40242" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="40271:44271" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="40377:44270" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="44303:46289" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="44385:46288" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="46321:49730" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="46437:49729" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="49762:51346" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="49854:51345" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="51374:53962" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="51459:53961" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="53998:65301" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="54070:65300" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="65325:65782" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="65431:65781" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="65806:71393" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="65908:71392" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="71422:78163" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="71518:78162" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="78177:78426" placeholder="..." />
+                <marker date="1462443520024" expanded="true" signature="78510:78689" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="404.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/errors/404.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="553">
+              <caret line="55" column="24" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
+||||||| .r4893
+            <state vertical-scroll-proportion="0.12526096">
+              <caret line="4" column="60" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="60" />
+=======
+            <state vertical-scroll-proportion="-28.44">
+              <caret line="783" column="81" selection-start-line="783" selection-start-column="60" selection-end-line="783" selection-end-column="81" />
+>>>>>>> .r4948
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< .mine
+      <file leaf-file-name="message.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/qiyun/admin/message.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="500.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/errors/500.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="503.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/errors/503.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layoutHome.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/qiyun/layouts/layoutHome.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="33" column="128" selection-start-line="33" selection-start-column="128" selection-end-line="33" selection-end-column="128" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/qiyun/index.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="79" column="154" selection-start-line="79" selection-start-column="97" selection-end-line="79" selection-end-column="154" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+||||||| .r4893
+=======
+      <file leaf-file-name="teaPerSpaceController.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/js/qiyun/angular/controller/teaPerSpaceController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.28664497">
+              <caret line="51" column="50" selection-start-line="51" selection-start-column="50" selection-end-line="51" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+>>>>>>> .r4948
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/app/Http/Kernel.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/public/js/qiyun/research/lessonDetail.js" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/Http/Controllers/qiyun/admin/auth/authManageController.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/Http/Controllers/qiyun/research/researchController.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+<<<<<<< .mine
+        <option value="$PROJECT_DIR$/config/app.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/qiyun/admin/indexController.php" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/admin/edit.blade.php" />
+        <option value="$PROJECT_DIR$/vendor/symfony/http-foundation/Request.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/qiyun/admin/users/IndexController.php" />
+||||||| .r4893
+        <option value="$PROJECT_DIR$/resources/views/errors/503.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Kernel.php" />
+        <option value="$PROJECT_DIR$/config/view.php" />
+        <option value="$PROJECT_DIR$/config/app.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/qiyun/admin/indexController.php" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/admin/edit.blade.php" />
+        <option value="$PROJECT_DIR$/vendor/symfony/http-foundation/Request.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/qiyun/admin/users/IndexController.php" />
+=======
+        <option value="$PROJECT_DIR$/resources/views/qiyun/research/subjectImage.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/research/subjectAudio.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/research/subjectArticle.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/research/resourceDetail.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/research/publishResource.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/research/publishPic.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/research/publishCommonCase.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/research/publishAudio.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/research/mark.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/research/lessonVideoList.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/research/lessonResourseList.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/research/imageList.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/research/imageDetail.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/research/groupList.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/research/evaluationList.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/research/evaluationInfo.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/research/evaluatCourseList.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/research/evaluatCourse.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/research/addSubject.blade.php" />
+        <option value="$PROJECT_DIR$/public/js/qiyun/angular/controller/subjectArticleListController.js" />
+        <option value="$PROJECT_DIR$/public/js/qiyun/angular/controller/subjectTopicListController.js" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/research/addEvaluation.blade.php" />
+        <option value="$PROJECT_DIR$/public/css/qiyun/research/subjectList.css" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/research/subjectList.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/research/makeGroup.blade.php" />
+        <option value="$PROJECT_DIR$/public/js/qiyun/research/addSubject.js" />
+        <option value="$PROJECT_DIR$/public/js/qiyun/angular/controller/lessonListController.js" />
+        <option value="$PROJECT_DIR$/public/css/qiyun/research/1.css" />
+        <option value="$PROJECT_DIR$/public/js/1.js" />
+        <option value="$PROJECT_DIR$/public/js/qiyun/angular/controller/teaPerSpaceController.js" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/layouts/layoutAdmin.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/admin/auth/permission/permissionEdit.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/research/lessonList.blade.php" />
+        <option value="$PROJECT_DIR$/config/database.php" />
+        <option value="$PROJECT_DIR$/public/css/qiyun/research/lessonDetail.css" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/research/subjectTopicList.blade.php" />
+        <option value="$PROJECT_DIR$/public/js/qiyun/angular/controller/lessonTopicListController.js" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/qiyun/research/researchController.php" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/research/lessonTopicList.blade.php" />
+>>>>>>> .r4948
+        <option value="$PROJECT_DIR$/vendor/composer/autoload_real.php" />
+        <option value="$PROJECT_DIR$/public/js/qiyun/angular/controller/resourceController.js" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/qiyun/resource/resourceController.php" />
+        <option value="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" />
+        <option value="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" />
+        <option value="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/microLesson/microLessonList.blade.php" />
+        <option value="$PROJECT_DIR$/public/js/qiyun/angular/controller/microLessonPostController.js" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
+<<<<<<< .mine
+        <option value="$PROJECT_DIR$/app/Http/Controllers/qiyun/indexController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/qiyun/member/memberController.php" />
+        <option value="$PROJECT_DIR$/public/js/qiyun/angular/controller/stuPerSpaceController.js" />
+        <option value="$PROJECT_DIR$/public/js/qiyun/angular/controller/parPerSpaceController.js" />
+        <option value="$PROJECT_DIR$/public/js/qiyun/angular/controller/teaPerSpaceController.js" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/qiyun/perSpace/perSpaceController.php" />
+        <option value="$PROJECT_DIR$/public/css/qiyun/research/research.css" />
+        <option value="$USER_HOME$/Documents/NetSarang/Xftp/Temporary/layoutHome.blade.php" />
+        <option value="$USER_HOME$/Documents/NetSarang/Xftp/Temporary/layoutHome.blade [3].php" />
+        <option value="$PROJECT_DIR$/config/session.php" />
+        <option value="$PROJECT_DIR$/public/js/qiyun/angular/app.js" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/news/news.blade.php" />
+        <option value="$PROJECT_DIR$/public/js/qiyun/angular/controller/newsController.js" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/resource/resource.blade.php" />
+        <option value="$PROJECT_DIR$/public/js/qiyun/angular/controller/newsdetailController.js" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/news/newsDetail.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/resource/resourceList.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/microLesson/microLessonDetail.blade.php" />
+        <option value="$PROJECT_DIR$/public/js/qiyun/angular/controller/microLessonDetailController.js" />
+        <option value="$PROJECT_DIR$/public/js/qiyun/angular/controller/lessonDetailController.js" />
+        <option value="$PROJECT_DIR$/public/js/qiyun/angular/controller/resourceDetailController.js" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/perSpace/terPerSpace.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/perSpace/stuPerSpace.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/perSpace/parPerSpace.blade.php" />
+        <option value="$PROJECT_DIR$/public/css/qiyun/index.css" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/index.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/qiyun/admin/resource/resourceController.php" />
+        <option value="$PROJECT_DIR$/public/js/qiyun/angular/controller/admin/resourceAddController.js" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/microLesson/microLesson.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/member/registerpar.blade.php" />
+        <option value="$PROJECT_DIR$/public/css/qiyun/member/regist.css" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/member/registerstu.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/member/register.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/errors/503.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/errors/404.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/layouts/layoutHome.blade.php" />
+||||||| .r4893
+        <option value="$PROJECT_DIR$/vendor/composer/autoload_real.php" />
+=======
+        <option value="$PROJECT_DIR$/public/js/qiyun/angular/controller/topicDetailController.js" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/research/topicDetail.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/research/research.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/research/makeLesson.blade.php" />
+        <option value="$PROJECT_DIR$/public/css/qiyun/research/makeLesson.css" />
+        <option value="$PROJECT_DIR$/public/js/qiyun/angular/controller/lessonDetailController.js" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/research/lessonDetail.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/qiyun/research/lessonDetailController.php" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/perSpace/terPerSpace.blade.php" />
+        <option value="$PROJECT_DIR$/public/css/qiyun/research/techGroupInfo.css" />
+        <option value="$PROJECT_DIR$/resources/views/qiyun/research/techGroupInfo.blade.php" />
+>>>>>>> .r4948
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>HtmlUnknownAttribute</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+<<<<<<< .mine
+||||||| .r4893
+      <pane id="Scratches" />
+=======
+      <pane id="Scope" />
+      <pane id="Scratches" />
+>>>>>>> .r4948
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+<<<<<<< .mine
+              <option name="myItemId" value="laravel_test" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+||||||| .r4893
+              <option name="myItemId" value="laravel5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+=======
+              <option name="myItemId" value="laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+>>>>>>> .r4948
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+<<<<<<< .mine
+              <option name="myItemId" value="laravel_test" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+||||||| .r4893
+              <option name="myItemId" value="laravel5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+=======
+              <option name="myItemId" value="laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qiyun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+>>>>>>> .r4948
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+<<<<<<< .mine
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+||||||| .r4893
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+=======
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+>>>>>>> .r4948
+            </PATH_ELEMENT>
+<<<<<<< .mine
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+||||||| .r4893
+=======
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qiyun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="perSpace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+>>>>>>> .r4948
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+<<<<<<< .mine
+              <option name="myItemId" value="laravel_test" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+||||||| .r4893
+              <option name="myItemId" value="laravel5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+=======
+              <option name="myItemId" value="laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+>>>>>>> .r4948
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+<<<<<<< .mine
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+||||||| .r4893
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+=======
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+>>>>>>> .r4948
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+<<<<<<< .mine
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+||||||| .r4893
+              <option name="myItemId" value="composer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+=======
+              <option name="myItemId" value="laravel5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+>>>>>>> .r4948
+            </PATH_ELEMENT>
+<<<<<<< .mine
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qiyun" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+||||||| .r4893
+=======
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+>>>>>>> .r4948
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+<<<<<<< .mine
+              <option name="myItemId" value="laravel_test" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+||||||| .r4893
+              <option name="myItemId" value="laravel5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+=======
+              <option name="myItemId" value="laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+>>>>>>> .r4948
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+<<<<<<< .mine
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+||||||| .r4893
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+=======
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+>>>>>>> .r4948
+            </PATH_ELEMENT>
+<<<<<<< .mine
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qiyun" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+||||||| .r4893
+=======
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qiyun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+>>>>>>> .r4948
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+<<<<<<< .mine
+              <option name="myItemId" value="laravel_test" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+||||||| .r4893
+              <option name="myItemId" value="laravel5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+=======
+              <option name="myItemId" value="laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qiyun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="research" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+>>>>>>> .r4948
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+<<<<<<< .mine
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+||||||| .r4893
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+=======
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qiyun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="research" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lessonDetail" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qiyun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="research" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lessonDetail" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="add" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+>>>>>>> .r4948
+            </PATH_ELEMENT>
+<<<<<<< .mine
+||||||| .r4893
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+=======
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+>>>>>>> .r4948
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="D:/xampp/htdocs/huawei_shop" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+<<<<<<< .mine
+    <property name="SearchEverywhereHistoryKey" value="regist&#9;FILE&#9;file://E:/wamp/www/laravel_test/public/css/qiyun/member/regist.css&#10;uploadResourceController&#9;FILE&#9;file://E:/wamp/www/laravel_test/public/js/qiyun/angular/controller/uploadResourceController.js&#10;microLessonDetailController&#9;FILE&#9;file://E:/wamp/www/laravel_test/public/js/qiyun/angular/controller/microLessonDetailController.js&#10;newsController&#9;FILE&#9;file://E:/wamp/www/laravel_test/public/js/qiyun/angular/controller/newsController.js&#10;research&#9;FILE&#9;file://E:/wamp/www/laravel_test/public/css/qiyun/research/research.css&#10;parPerSpaceController&#9;FILE&#9;file://E:/wamp/www/laravel_test/public/js/qiyun/angular/controller/parPerSpaceController.js&#10;stuPerSpaceController&#9;FILE&#9;file://E:/wamp/www/laravel_test/public/js/qiyun/angular/controller/stuPerSpaceController.js&#10;teaPerSpaceController&#9;FILE&#9;file://E:/wamp/www/laravel_test/public/js/qiyun/angular/controller/teaPerSpaceController.js&#10;app&#9;FILE&#9;file://E:/wamp/www/laravel_test/public/js/qiyun/angular/app.js&#10;user&#9;FILE&#9;file://E:/wamp/www/laravel_test/app/User.php&#10;Auth&#9;FILE&#9;file://E:/wamp/www/laravel_test/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php&#10;logout&#9;null&#9;null&#10;getLogout&#9;null&#9;null&#10;postLogin&#9;null&#9;null&#10;resourceController&#9;FILE&#9;file://E:/wamp/www/laravel_test/public/js/qiyun/angular/controller/resourceController.js" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+||||||| .r4893
+=======
+    <property name="SearchEverywhereHistoryKey" value="teaPerSpaceController&#9;FILE&#9;file://D:/phpstudy/www/laravel/public/js/qiyun/angular/controller/teaPerSpaceController.js&#10;techGroupInfo&#9;FILE&#9;file://D:/phpstudy/www/laravel/public/css/qiyun/research/techGroupInfo.css&#10;lessonResourseList&#9;FILE&#9;file://D:/phpstudy/www/laravel/resources/views/qiyun/research/lessonResourseList.blade.php&#10;lessonDetailController&#9;FILE&#9;file://D:/phpstudy/www/laravel/public/js/qiyun/angular/controller/lessonDetailController.js&#10;lessond&#9;FILE&#9;file://D:/phpstudy/www/laravel/resources/views/qiyun/research/lessonDetail.blade.php&#10;makeLesson.&#9;FILE&#9;file://D:/phpstudy/www/laravel/public/css/qiyun/research/makeLesson.css&#10;makeLesson&#9;FILE&#9;file://D:/phpstudy/www/laravel/resources/views/qiyun/research/makeLesson.blade.php&#10;research&#9;FILE&#9;file://D:/phpstudy/www/laravel/resources/views/qiyun/research/research.blade.php&#10;topicDetailController&#9;FILE&#9;file://D:/phpstudy/www/laravel/public/js/qiyun/angular/controller/topicDetailController.js&#10;lessondetail&#9;FILE&#9;file://D:/phpstudy/www/laravel/resources/views/qiyun/research/lessonDetail.blade.php&#10;re&#9;FILE&#9;file://D:/phpstudy/www/laravel/app/Http/Controllers/qiyun/research/researchController.php&#10;topicInfoController.js&#9;FILE&#9;file://D:/phpstudy/www/laravel/public/js/qiyun/angular/controller/topicInfoController.js&#10;topicInfo&#9;FILE&#9;file://D:/phpstudy/www/laravel/resources/views/qiyun/research/topicInfo.blade.php&#10;res&#9;FILE&#9;file://D:/phpstudy/www/laravel/app/Http/Controllers/qiyun/research/researchController.php&#10;lessonlis&#9;FILE&#9;file://D:/phpstudy/www/laravel/resources/views/qiyun/research/lessonList.blade.php&#10;lessonDetail&#9;FILE&#9;file://D:/phpstudy/www/laravel/public/css/qiyun/research/lessonDetail.css&#10;subjectTopicList&#9;FILE&#9;file://D:/phpstudy/www/laravel/resources/views/qiyun/research/subjectTopicList.blade.php&#10;lesson&#9;null&#9;null&#10;lessonDetailController.js&#9;FILE&#9;file://D:/phpstudy/www/laravel/public/js/qiyun/angular/controller/lessonDetailController.js&#10;research.&#9;FILE&#9;file://D:/phpstudy/www/laravel/resources/views/qiyun/research/research.blade.php&#10;routes&#9;FILE&#9;file://D:/phpstudy/www/laravel/app/Http/routes.php&#10;layout&#9;FILE&#9;file://D:/phpstudy/www/laravel/resources/views/qiyun/layouts/layoutAdmin.blade.php&#10;tea&#9;null&#9;null&#10;grouplist&#9;null&#9;null&#10;lessonListController&#9;FILE&#9;file://D:/phpstudy/www/laravel/public/js/qiyun/angular/controller/lessonListController.js&#10;lessonlist&#9;FILE&#9;file://D:/phpstudy/www/laravel/resources/views/qiyun/research/lessonList.blade.php&#10;resea&#9;null&#9;null&#10;addSubject.&#9;FILE&#9;file://D:/phpstudy/www/laravel/public/js/qiyun/research/addSubject.js&#10;addsubjec&#9;FILE&#9;file://D:/phpstudy/www/laravel/resources/views/qiyun/research/addSubject.blade.php&#10;makegroup&#9;FILE&#9;file://D:/phpstudy/www/laravel/resources/views/qiyun/research/makeGroup.blade.php&#10;subjectlist.&#9;FILE&#9;file://D:/phpstudy/www/laravel/resources/views/qiyun/research/subjectList.blade.php&#10;subjectlist.css&#9;FILE&#9;file://D:/phpstudy/www/laravel/public/css/qiyun/research/subjectList.css&#10;addEvaluationController&#9;FILE&#9;file://D:/phpstudy/www/laravel/public/js/qiyun/angular/controller/addEvaluationController.js&#10;addEvaluation&#9;FILE&#9;file://D:/phpstudy/www/laravel/public/js/qiyun/research/addEvaluation.js&#10;resourceDetail&#9;FILE&#9;file://D:/phpstudy/www/laravel/public/css/qiyun/resource/resourceDetail.css&#10;techgroup&#9;FILE&#9;file://D:/phpstudy/www/laravel/resources/views/qiyun/research/techGroupInfo.blade.php&#10;ter&#9;FILE&#9;file://D:/phpstudy/www/laravel/resources/views/qiyun/perSpace/terPerSpace.blade.php&#10;perS&#9;FILE&#9;file://D:/phpstudy/www/laravel/app/Http/Controllers/qiyun/perSpace/perSpaceController.php&#10;articleInfoController.&#9;FILE&#9;file://D:/phpstudy/www/laravel/public/js/qiyun/angular/controller/articleInfoController.js&#10;topicInfoController&#9;FILE&#9;file://D:/phpstudy/www/laravel/public/js/qiyun/angular/controller/topicInfoController.js&#10;articleInfo&#9;FILE&#9;file://D:/phpstudy/www/laravel/resources/views/qiyun/research/articleInfo.blade.php&#10;resourceDetail.&#9;FILE&#9;file://D:/phpstudy/www/laravel/public/css/qiyun/resource/resourceDetail.css&#10;subjectVideoDetailController&#9;FILE&#9;file://D:/phpstudy/www/laravel/public/js/qiyun/angular/controller/subjectVideoDetailController.js&#10;subjectVideoDetail&#9;FILE&#9;file://D:/phpstudy/www/laravel/resources/views/qiyun/research/subjectVideoDetail.blade.php&#10;subjectInfo&#9;FILE&#9;file://D:/phpstudy/www/laravel/public/css/qiyun/research/subjectInfo.css&#10;personSpace&#9;null&#9;null&#10;teaPerSpaceController.&#9;FILE&#9;file://D:/phpstudy/www/laravel/public/js/qiyun/angular/controller/teaPerSpaceController.js&#10;terSpac&#9;FILE&#9;file://D:/phpstudy/www/laravel/resources/views/qiyun/perSpace/terPerSpace.blade.php&#10;par&#9;FILE&#9;file://D:/phpstudy/www/laravel/resources/views/qiyun/perSpace/parPerSpace.blade.php" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+>>>>>>> .r4948
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\phpstudy\www\laravel\public\js\qiyun\angular\controller" />
+      <recent name="D:\phpstudy\www\laravel\resources\views\qiyun\research" />
+      <recent name="D:\phpstudy\www\laravel\public\css\qiyun\research" />
+      <recent name="D:\phpstudy\www\laravel\public\js\qiyun\angular" />
+      <recent name="D:\phpstudy\www\laravel\public\js\qiyun\research" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\phpstudy\www\laravel\public\js\qiyun\angular\controller" />
+      <recent name="D:\phpstudy\www\laravel\public\js\qiyun\angular\controller\admin" />
+      <recent name="D:\phpstudy\www\laravel\public\image\qiyun\research\makeGroup" />
+      <recent name="E:\WWW\laravel5\app\Http\Controllers" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\wudi\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d002084e-8ffa-4911-a453-01e9649ec27a" name="Default" comment="" />
+      <created>1453184098039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1453184098039</updated>
+      <workItem from="1461209331798" duration="3000" />
+      <workItem from="1461553199166" duration="704000" />
+      <workItem from="1461553928635" duration="20739000" />
+      <workItem from="1461634424947" duration="7749000" />
+      <workItem from="1461810150035" duration="110000" />
+      <workItem from="1461836846829" duration="2194000" />
+      <workItem from="1461893315203" duration="8332000" />
+      <workItem from="1461923526546" duration="599000" />
+      <workItem from="1461924575887" duration="287000" />
+      <workItem from="1462240480318" duration="750000" />
+      <workItem from="1462352524088" duration="5171000" />
+      <workItem from="1462412855370" duration="10896000" />
+      <workItem from="1462505980662" duration="6697000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="64231000" />
+  </component>
+  <component name="ToolWindowManager">
+<<<<<<< .mine
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+||||||| .r4893
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+=======
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+>>>>>>> .r4948
+    <editor active="true" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+<<<<<<< .mine
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.024520256" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+||||||| .r4893
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24427083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> .r4948
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+<<<<<<< .mine
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996973" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+||||||| .r4893
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996973" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983193" sideWeight="0.50208336" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983193" sideWeight="0.49791667" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+>>>>>>> .r4948
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32878152" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983193" sideWeight="0.50208336" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983193" sideWeight="0.49791667" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/microLesson/microLessonPost.blade.php">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/AdminAuth.php">
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/layouts/layoutAdmin.blade.php">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="336">
+          <caret line="55" column="74" selection-start-line="55" selection-start-column="68" selection-end-line="55" selection-end-column="74" />
+||||||| .r4893
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1453182778959" expanded="true" signature="68:328" placeholder="{...}" />
+            <marker date="1453182778959" expanded="true" signature="78:228" placeholder=" Handle an incoming request. ..." />
+            <marker date="1453182778959" expanded="true" signature="282:326" placeholder="{...}" />
+          </folding>
+=======
+        <state vertical-scroll-proportion="-9.68">
+          <caret line="1146" column="73" selection-start-line="1146" selection-start-column="73" selection-end-line="1146" selection-end-column="73" />
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/public/js/qiyun/angular/controller/indexController.js">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/qiyun/research/researchController.php">
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/admin/auth/authManage/addManager.blade.php">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="-2646">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="56" />
+||||||| .r4893
+        <state vertical-scroll-proportion="0.0">
+          <caret line="98" column="50" selection-start-line="98" selection-start-column="50" selection-end-line="98" selection-end-column="50" />
+=======
+        <state vertical-scroll-proportion="21.12">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/qiyun/indexController.php">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/qiyun/research/lessonDetailController.php">
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/admin/auth/authManage/addUserPermission.blade.php">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="735">
+          <caret line="42" column="33" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+||||||| .r4893
+        <state vertical-scroll-proportion="0.389899">
+          <caret line="130" column="34" selection-start-line="130" selection-start-column="34" selection-end-line="130" selection-end-column="34" />
+=======
+        <state vertical-scroll-proportion="39.84">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://E:/avalon/avalon/src/filters/index.js">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/qiyun/research/researchController.php">
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/admin/auth/authManage/adminList.blade.php">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="-112">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+||||||| .r4893
+        <state vertical-scroll-proportion="0.06666667">
+          <caret line="98" column="50" selection-start-line="98" selection-start-column="50" selection-end-line="98" selection-end-column="50" />
+=======
+        <state vertical-scroll-proportion="58.32">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/public/js/qiyun/angular/controller/teaPerSpaceController.js">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/qiyun/resource/resourceController.php">
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/admin/auth/authManage/schoolManagerList.blade.php">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="588">
+          <caret line="717" column="50" selection-start-line="717" selection-start-column="50" selection-end-line="717" selection-end-column="50" />
+||||||| .r4893
+        <state vertical-scroll-proportion="-0.7030303">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="60.72">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/public/js/qiyun/angular/controller/stuPerSpaceController.js">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/resources/views/errors/503.blade.php">
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/admin/auth/permission/addPermission.blade.php">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="448">
+          <caret line="126" column="48" selection-start-line="126" selection-start-column="22" selection-end-line="126" selection-end-column="48" />
+||||||| .r4893
+        <state vertical-scroll-proportion="0.67777777">
+          <caret line="42" column="55" selection-start-line="42" selection-start-column="55" selection-end-line="42" selection-end-column="55" />
+=======
+        <state vertical-scroll-proportion="41.6">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/public/js/qiyun/angular/controller/parPerSpaceController.js">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/admin/index.blade.php">
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/admin/auth/permission/addRolePermission.blade.php">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="448">
+          <caret line="127" column="48" selection-start-line="127" selection-start-column="22" selection-end-line="127" selection-end-column="48" />
+||||||| .r4893
+        <state vertical-scroll-proportion="-7.6454544">
+          <caret line="141" column="28" selection-start-line="141" selection-start-column="28" selection-end-line="141" selection-end-column="28" />
+          <folding />
+=======
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/app/Newstype.php">
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/admin/auth/permission/checkRolePermission.blade.php">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="-537">
+          <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+||||||| .r4893
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/PasswordController.php">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/app/Resource.php">
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/admin/auth/permission/permissionList.blade.php">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+||||||| .r4893
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="0.0">
+          <caret line="83" column="101" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="101" />
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/qiyun/member/memberController.php">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/app/Techresearch.php">
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/admin/auth/role/addRole.blade.php">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="798">
+          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
+||||||| .r4893
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/qiyun/perSpace/perSpaceController.php">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/app/News.php">
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/admin/auth/role/roleList.blade.php">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="655">
+          <caret line="80" column="33" selection-start-line="80" selection-start-column="33" selection-end-line="80" selection-end-column="33" />
+||||||| .r4893
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/public/css/qiyun/research/research.css">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/app/Lessonsubject.php">
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/admin/baseset/classadd.blade.php">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="7077">
+          <caret line="337" column="1" selection-start-line="337" selection-start-column="1" selection-end-line="337" selection-end-column="1" />
+||||||| .r4893
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/research/research.blade.php">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/app/Providers/AppServiceProvider.php">
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/admin/baseset/classEdit.blade.php">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="105">
+          <caret line="5" column="91" selection-start-line="5" selection-start-column="83" selection-end-line="5" selection-end-column="91" />
+||||||| .r4893
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/layoutHome.blade.php" />
+    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/layoutHome.blade [2].php" />
+    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/layoutHome.blade [3].php" />
+    <entry file="file://$PROJECT_DIR$/config/session.php">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/app/Providers/AuthServiceProvider.php">
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/admin/baseset/classroomList.blade.php">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="588">
+          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+||||||| .r4893
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="0.0">
+          <caret line="84" column="92" selection-start-line="84" selection-start-column="92" selection-end-line="84" selection-end-column="92" />
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/public/js/qiyun/angular/app.js">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/app/Policies/.gitkeep">
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/admin/baseset/depadd.blade.php">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="777">
+          <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+||||||| .r4893
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="-0.6941964">
+          <caret line="234" column="22" selection-start-line="234" selection-start-column="22" selection-end-line="234" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/auth/login.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.303571">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> .r4948
+          <folding>
+            <marker date="1455590797455" expanded="true" signature="7702:7810" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/public/js/qiyun/angular/controller/newsController.js">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/app/Listeners/.gitkeep">
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/admin/auth/permission/permissionEdit.blade.php">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="420">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+||||||| .r4893
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="-1.1607143">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> .r4948
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/news/news.blade.php">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/app/Jobs/Job.php">
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/research/lessonList.blade.php">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="693">
+          <caret line="131" column="74" selection-start-line="131" selection-start-column="60" selection-end-line="131" selection-end-column="74" />
+||||||| .r4893
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="0.25591883">
+          <caret line="42" column="60" selection-start-line="42" selection-start-column="60" selection-end-line="42" selection-end-column="60" />
+          <folding>
+            <element signature="e#1410#1430#0#HTML" expanded="true" />
+          </folding>
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/resource/resource.blade.php">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/app/Http/Kernel.php">
+=======
+    <entry file="file://$PROJECT_DIR$/config/database.php">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="287">
+          <caret line="404" column="60" selection-start-line="404" selection-start-column="57" selection-end-line="404" selection-end-column="60" />
+||||||| .r4893
+        <state vertical-scroll-proportion="0.32626262">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+=======
+        <state vertical-scroll-proportion="-7.92">
+          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="64" selection-end-column="11" />
+          <folding />
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/public/js/qiyun/angular/controller/newsdetailController.js">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/222.txt">
+=======
+    <entry file="file://$PROJECT_DIR$/public/css/qiyun/research/lessonDetail.css">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="273">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+||||||| .r4893
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="30" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
+=======
+        <state vertical-scroll-proportion="-14.96">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding />
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/news/newsDetail.blade.php">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/2111.txt">
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/research/subjectTopicList.blade.php">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="336">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+||||||| .r4893
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="15" />
+=======
+        <state vertical-scroll-proportion="-22.28">
+          <caret line="120" column="105" selection-start-line="120" selection-start-column="105" selection-end-line="120" selection-end-column="105" />
+          <folding />
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/resource/resourceList.blade.php">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/artisan">
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/research/subjectResourceList.blade.php">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="504">
+          <caret line="147" column="94" selection-start-line="147" selection-start-column="94" selection-end-line="147" selection-end-column="94" />
+||||||| .r4893
+        <state vertical-scroll-proportion="0.5858586">
+          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+=======
+        <state vertical-scroll-proportion="84.2">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/public/js/qiyun/angular/controller/microLessonDetailController.js">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/app/Departmenttech.php">
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/research/subjectResourceDetail.blade.php">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="582">
+          <caret line="78" column="10" selection-start-line="78" selection-start-column="10" selection-end-line="78" selection-end-column="10" />
+||||||| .r4893
+        <state vertical-scroll-proportion="0.43939394">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="39.32">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/microLesson/microLessonDetail.blade.php">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/config/view.php">
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/research/subjectResource.blade.php">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="700">
+          <caret line="319" column="110" selection-start-line="319" selection-start-column="83" selection-end-line="319" selection-end-column="110" />
+||||||| .r4893
+        <state vertical-scroll-proportion="0.410101">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="36.68">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/public/js/qiyun/angular/controller/lessonDetailController.js">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/research/subjectList.blade.php">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="567">
+          <caret line="342" column="31" selection-start-line="342" selection-start-column="31" selection-end-line="342" selection-end-column="31" />
+||||||| .r4893
+        <state vertical-scroll-proportion="3.0505052">
+          <caret line="151" column="66" selection-start-line="151" selection-start-column="66" selection-end-line="151" selection-end-column="66" />
+=======
+        <state vertical-scroll-proportion="-29.32">
+          <caret line="63" column="110" selection-start-line="63" selection-start-column="110" selection-end-line="63" selection-end-column="110" />
+          <folding />
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/public/js/qiyun/angular/controller/resourceDetailController.js">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/qiyun/admin/indexController.php">
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/research/subjectImageList.blade.php">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="483">
+          <caret line="68" column="4" selection-start-line="68" selection-start-column="7" selection-end-line="80" selection-end-column="10" />
+||||||| .r4893
+        <state vertical-scroll-proportion="0.43939394">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="12.04">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/perSpace/parPerSpace.blade.php">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+=======
+    <entry file="file://$PROJECT_DIR$/public/js/qiyun/angular/controller/lessonResourseListController.js">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="279">
+          <caret line="143" column="44" selection-start-line="143" selection-start-column="41" selection-end-line="143" selection-end-column="44" />
+||||||| .r4893
+        <state vertical-scroll-proportion="0.23434344">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+=======
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding />
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/perSpace/stuPerSpace.blade.php">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/vendor/phpunit/phpunit/src/Framework/Constraint/ArrayHasKey.php">
+=======
+    <entry file="file://$PROJECT_DIR$/public/js/qiyun/angular/controller/lessonVideoListController.js">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="279">
+          <caret line="218" column="44" selection-start-line="218" selection-start-column="41" selection-end-line="218" selection-end-column="44" />
+||||||| .r4893
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
+=======
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="26" />
+          <folding />
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/perSpace/terPerSpace.blade.php">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/http-foundation/Tests/RequestTest.php">
+=======
+    <entry file="file://$PROJECT_DIR$/public/js/qiyun/angular/controller/topicInfoController.js">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="279">
+          <caret line="124" column="49" selection-start-line="124" selection-start-column="46" selection-end-line="124" selection-end-column="49" />
+||||||| .r4893
+        <state vertical-scroll-proportion="0.77272725">
+          <caret line="832" column="25" selection-start-line="832" selection-start-column="23" selection-end-line="832" selection-end-column="30" />
+=======
+        <state vertical-scroll-proportion="-1.7741228">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/public/css/qiyun/index.css">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php">
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/research/topicInfo.blade.php">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="174">
+          <caret line="354" column="4" selection-start-line="354" selection-start-column="4" selection-end-line="354" selection-end-column="34" />
+||||||| .r4893
+        <state vertical-scroll-proportion="1.0252526">
+          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="-1.7034949">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/qiyun/admin/resource/resourceController.php">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Http/Request.php">
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/research/topicDetail.blade.php">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="308">
+          <caret line="835" column="17" selection-start-line="835" selection-start-column="17" selection-end-line="835" selection-end-column="17" />
+||||||| .r4893
+        <state vertical-scroll-proportion="0.3808081">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding>
+            <marker date="1453182779973" expanded="true" signature="39:274" placeholder="..." />
+            <marker date="1453182779973" expanded="true" signature="335:20105" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="345:426" placeholder=" The decoded JSON content for the request. ..." />
+            <marker date="1453182779973" expanded="true" signature="458:527" placeholder=" The user resolver callback. ..." />
+            <marker date="1453182779973" expanded="true" signature="567:637" placeholder=" The route resolver callback. ..." />
+            <marker date="1453182779973" expanded="true" signature="678:780" placeholder=" Create a new Illuminate HTTP request from server variables. ..." />
+            <marker date="1453182779973" expanded="true" signature="819:961" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="970:1040" placeholder=" Return the Request instance. ..." />
+            <marker date="1453182779973" expanded="true" signature="1073:1107" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="1116:1182" placeholder=" Get the request method. ..." />
+            <marker date="1453182779973" expanded="true" signature="1213:1260" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="1269:1349" placeholder=" Get the root URL for the application. ..." />
+            <marker date="1453182779973" expanded="true" signature="1378:1468" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="1477:1566" placeholder=" Get the URL (no query string) for the request. ..." />
+            <marker date="1453182779973" expanded="true" signature="1594:1678" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="1687:1763" placeholder=" Get the full URL for the request. ..." />
+            <marker date="1453182779973" expanded="true" signature="1795:1914" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="1923:2008" placeholder=" Get the current path info for the request. ..." />
+            <marker date="1453182779973" expanded="true" signature="2037:2150" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="2159:2252" placeholder=" Get the current encoded path info for the request. ..." />
+            <marker date="1453182779973" expanded="true" signature="2288:2344" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="2353:2508" placeholder=" Get a segment from the URI (1 based index). ..." />
+            <marker date="1453182779973" expanded="true" signature="2563:2641" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="2650:2737" placeholder=" Get all of the segments for the request path. ..." />
+            <marker date="1453182779973" expanded="true" signature="2770:2922" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="2931:3056" placeholder=" Determine if the current request URI matches a pattern. ..." />
+            <marker date="1453182779973" expanded="true" signature="3083:3282" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="3137:3252" placeholder="..." />
+            <marker date="1453182779973" expanded="true" signature="3200:3242" placeholder="..." />
+            <marker date="1453182779973" expanded="true" signature="3291:3387" placeholder=" Determine if the request is the result of an AJAX call. ..." />
+            <marker date="1453182779973" expanded="true" signature="3416:3470" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="3479:3575" placeholder=" Determine if the request is the result of an PJAX call. ..." />
+            <marker date="1453182779973" expanded="true" signature="3604:3670" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="3679:3759" placeholder=" Determine if the request is over HTTPS. ..." />
+            <marker date="1453182779973" expanded="true" signature="3790:3836" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="3845:3918" placeholder=" Returns the client IP address. ..." />
+            <marker date="1453182779973" expanded="true" signature="3945:3994" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="4003:4077" placeholder=" Returns the client IP addresses. ..." />
+            <marker date="1453182779973" expanded="true" signature="4105:4155" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="4164:4296" placeholder=" Determine if the request contains a given input item key. ..." />
+            <marker date="1453182779973" expanded="true" signature="4331:4599" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="4463:4570" placeholder="..." />
+            <marker date="1453182779973" expanded="true" signature="4517:4560" placeholder="..." />
+            <marker date="1453182779973" expanded="true" signature="4608:4753" placeholder=" Determine if the request contains a non-empty value for an input item. ..." />
+            <marker date="1453182779973" expanded="true" signature="4785:5015" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="4885:4986" placeholder="..." />
+            <marker date="1453182779973" expanded="true" signature="4933:4976" placeholder="..." />
+            <marker date="1453182779973" expanded="true" signature="5024:5155" placeholder=" Determine if the given input key is an empty string for &quot;has&quot;. ..." />
+            <marker date="1453182779973" expanded="true" signature="5200:5374" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="5383:5472" placeholder=" Get all of the input and files for the request. ..." />
+            <marker date="1453182779973" expanded="true" signature="5500:5589" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="5598:5758" placeholder=" Retrieve an input item from the request. ..." />
+            <marker date="1453182779973" expanded="true" signature="5816:5949" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="5958:6074" placeholder=" Get a subset of the items from the input data. ..." />
+            <marker date="1453182779973" expanded="true" signature="6108:6368" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="6264:6335" placeholder="..." />
+            <marker date="1453182779973" expanded="true" signature="6377:6512" placeholder=" Get all of the input except for a specified array of items. ..." />
+            <marker date="1453182779973" expanded="true" signature="6548:6718" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="6727:6893" placeholder=" Retrieve a query string item from the request. ..." />
+            <marker date="1453182779973" expanded="true" signature="6951:7024" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="7033:7146" placeholder=" Determine if a cookie is set on the request. ..." />
+            <marker date="1453182779973" expanded="true" signature="7184:7243" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="7252:7407" placeholder=" Retrieve a cookie from the request. ..." />
+            <marker date="1453182779973" expanded="true" signature="7466:7541" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="7550:7741" placeholder=" Retrieve a file from the request. ..." />
+            <marker date="1453182779973" expanded="true" signature="7798:7872" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="7881:7997" placeholder=" Determine if the uploaded data contains a file. ..." />
+            <marker date="1453182779973" expanded="true" signature="8033:8298" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="8093:8133" placeholder="..." />
+            <marker date="1453182779973" expanded="true" signature="8171:8268" placeholder="..." />
+            <marker date="1453182779973" expanded="true" signature="8216:8258" placeholder="..." />
+            <marker date="1453182779973" expanded="true" signature="8307:8427" placeholder=" Check that the given file is a valid file instance. ..." />
+            <marker date="1453182779973" expanded="true" signature="8471:8554" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="8563:8718" placeholder=" Retrieve a header from the request. ..." />
+            <marker date="1453182779973" expanded="true" signature="8777:8852" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="8861:9025" placeholder=" Retrieve a server variable from the request. ..." />
+            <marker date="1453182779973" expanded="true" signature="9084:9158" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="9167:9314" placeholder=" Retrieve an old input item. ..." />
+            <marker date="1453182779973" expanded="true" signature="9370:9444" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="9453:9609" placeholder=" Flash the input for the current request to the session. ..." />
+            <marker date="1453182779973" expanded="true" signature="9665:9804" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="9813:9932" placeholder=" Flash only some of the input to the session. ..." />
+            <marker date="1453182779973" expanded="true" signature="9971:10087" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="10096:10215" placeholder=" Flash only some of the input to the session. ..." />
+            <marker date="1453182779973" expanded="true" signature="10256:10374" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="10383:10468" placeholder=" Flush all of the old input from the session. ..." />
+            <marker date="1453182779973" expanded="true" signature="10498:10552" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="10561:10758" placeholder=" Retrieve a parameter item from a given source. ..." />
+            <marker date="1453182779973" expanded="true" signature="10821:10973" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="10856:10907" placeholder="..." />
+            <marker date="1453182779973" expanded="true" signature="10982:11107" placeholder=" Merge new input into the current request's input array. ..." />
+            <marker date="1453182779973" expanded="true" signature="11149:11207" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="11216:11328" placeholder=" Replace the input for the current request. ..." />
+            <marker date="1453182779973" expanded="true" signature="11372:11434" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="11443:11582" placeholder=" Get the JSON payload for the request. ..." />
+            <marker date="1453182779973" expanded="true" signature="11639:11923" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="11681:11782" placeholder="..." />
+            <marker date="1453182779973" expanded="true" signature="11813:11854" placeholder="..." />
+            <marker date="1453182779973" expanded="true" signature="11932:12052" placeholder=" Get the input source for the request. ..." />
+            <marker date="1453182779973" expanded="true" signature="12094:12258" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="12131:12174" placeholder="..." />
+            <marker date="1453182779973" expanded="true" signature="12267:12411" placeholder=" Determine if the given content types match. ..." />
+            <marker date="1453182779973" expanded="true" signature="12468:12739" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="12507:12541" placeholder="..." />
+            <marker date="1453182779973" expanded="true" signature="12675:12709" placeholder="..." />
+            <marker date="1453182779973" expanded="true" signature="12748:12830" placeholder=" Determine if the request is sending JSON. ..." />
+            <marker date="1453182779973" expanded="true" signature="12861:12943" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="12952:13055" placeholder=" Determine if the current request is asking for JSON in return. ..." />
+            <marker date="1453182779973" expanded="true" signature="13089:13239" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="13248:13401" placeholder=" Determines whether the current requests accepts a given content type. ..." />
+            <marker date="1453182779973" expanded="true" signature="13446:14003" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="13545:13579" placeholder="..." />
+            <marker date="1453182779973" expanded="true" signature="13662:13973" placeholder="..." />
+            <marker date="1453182779973" expanded="true" signature="13718:13760" placeholder="..." />
+            <marker date="1453182779973" expanded="true" signature="13802:13963" placeholder="..." />
+            <marker date="1453182779973" expanded="true" signature="13899:13949" placeholder="..." />
+            <marker date="1453182779973" expanded="true" signature="14012:14191" placeholder=" Return the most suitable content type from the given array based on content negotiation. ..." />
+            <marker date="1453182779973" expanded="true" signature="14236:14909" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="14386:14902" placeholder="..." />
+            <marker date="1453182779973" expanded="true" signature="14437:14491" placeholder="..." />
+            <marker date="1453182779973" expanded="true" signature="14547:14892" placeholder="..." />
+            <marker date="1453182779973" expanded="true" signature="14665:14721" placeholder="..." />
+            <marker date="1453182779973" expanded="true" signature="14820:14878" placeholder="..." />
+            <marker date="1453182779973" expanded="true" signature="14918:15001" placeholder=" Determines whether a request accepts JSON. ..." />
+            <marker date="1453182779973" expanded="true" signature="15037:15100" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="15109:15192" placeholder=" Determines whether a request accepts HTML. ..." />
+            <marker date="1453182779973" expanded="true" signature="15228:15284" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="15293:15413" placeholder=" Get the data format expected in the response. ..." />
+            <marker date="1453182779973" expanded="true" signature="15461:15672" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="15531:15639" placeholder="..." />
+            <marker date="1453182779973" expanded="true" signature="15584:15629" placeholder="..." />
+            <marker date="1453182779973" expanded="true" signature="15681:15862" placeholder=" Create an Illuminate request from a Symfony instance. ..." />
+            <marker date="1453182779973" expanded="true" signature="15931:16420" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="15979:16017" placeholder="..." />
+            <marker date="1453182779973" expanded="true" signature="16102:16290" placeholder="..." />
+            <marker date="1453182779973" expanded="true" signature="16429:16456" placeholder=" {@inheritdoc} ..." />
+            <marker date="1453182779973" expanded="true" signature="16624:16750" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="16759:16905" placeholder=" Get the session associated with the request. ..." />
+            <marker date="1453182779973" expanded="true" signature="16937:17110" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="16980:17066" placeholder="..." />
+            <marker date="1453182779973" expanded="true" signature="17119:17193" placeholder=" Get the user making the request. ..." />
+            <marker date="1453182779973" expanded="true" signature="17222:17291" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="17300:17451" placeholder=" Get the route handling the request. ..." />
+            <marker date="1453182779973" expanded="true" signature="17494:17717" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="17611:17647" placeholder="..." />
+            <marker date="1453182779973" expanded="true" signature="17655:17710" placeholder="..." />
+            <marker date="1453182779973" expanded="true" signature="17726:17802" placeholder=" Get the user resolver callback. ..." />
+            <marker date="1453182779973" expanded="true" signature="17842:17908" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="17917:18025" placeholder=" Set the user resolver callback. ..." />
+            <marker date="1453182779973" expanded="true" signature="18082:18158" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="18167:18244" placeholder=" Get the route resolver callback. ..." />
+            <marker date="1453182779973" expanded="true" signature="18285:18352" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="18361:18470" placeholder=" Set the route resolver callback. ..." />
+            <marker date="1453182779973" expanded="true" signature="18528:18605" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="18614:18723" placeholder=" Determine if the given offset exists. ..." />
+            <marker date="1453182779973" expanded="true" signature="18767:18835" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="18844:18951" placeholder=" Get the value at the given offset. ..." />
+            <marker date="1453182779973" expanded="true" signature="18992:19052" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="19061:19196" placeholder=" Set the value at the given offset. ..." />
+            <marker date="1453182779973" expanded="true" signature="19245:19319" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="19328:19437" placeholder=" Remove the value at the given offset. ..." />
+            <marker date="1453182779973" expanded="true" signature="19480:19549" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="19558:19675" placeholder=" Check if an input element is set on the request. ..." />
+            <marker date="1453182779973" expanded="true" signature="19711:19769" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="19778:19886" placeholder=" Get an input element from the request. ..." />
+            <marker date="1453182779973" expanded="true" signature="19920:20103" placeholder="{...}" />
+            <marker date="1453182779973" expanded="true" signature="20000:20040" placeholder="..." />
+            <marker date="1453182779973" expanded="true" signature="20048:20096" placeholder="..." />
+          </folding>
+=======
+        <state vertical-scroll-proportion="0.40473506">
+          <caret line="58" column="55" selection-start-line="58" selection-start-column="55" selection-end-line="58" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.389474">
+          <caret line="368" column="77" selection-start-line="368" selection-start-column="77" selection-end-line="368" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/qiyun/angular/controller/lessonTopicListController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.8684211">
+          <caret line="42" column="44" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/research/lessonTopicList.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37993234">
+          <caret line="74" column="81" selection-start-line="74" selection-start-column="81" selection-end-line="74" selection-end-column="81" />
+          <folding>
+            <element signature="e#2106#2125#0#HTML" expanded="true" />
+          </folding>
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/public/js/qiyun/angular/controller/admin/resourceAddController.js">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/admin/edit.blade.php">
+=======
+    <entry file="file://$PROJECT_DIR$/public/js/qiyun/angular/controller/topicDetailController.js">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="567">
+          <caret line="159" column="22" selection-start-line="159" selection-start-column="22" selection-end-line="159" selection-end-column="22" />
+||||||| .r4893
+        <state vertical-scroll-proportion="0.8181818">
+          <caret line="36" column="56" selection-start-line="36" selection-start-column="56" selection-end-line="36" selection-end-column="56" />
+=======
+        <state vertical-scroll-proportion="1.0131578">
+          <caret line="63" column="63" selection-start-line="63" selection-start-column="57" selection-end-line="63" selection-end-column="63" />
+          <folding />
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/qiyun/resource/resourceController.php">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/http-foundation/Request.php">
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/research/videoDetail.blade.php">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="216">
+          <caret line="163" column="6" selection-start-line="162" selection-start-column="0" selection-end-line="164" selection-end-column="21" />
+||||||| .r4893
+        <state vertical-scroll-proportion="2.3909092">
+          <caret line="221" column="5" selection-start-line="221" selection-start-column="5" selection-end-line="221" selection-end-column="5" />
+=======
+        <state vertical-scroll-proportion="0.6527621">
+          <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding />
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/public/js/qiyun/angular/controller/uploadResourceController.js">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/app/Console/Commands/Inspire.php">
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/research/research.blade.php">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="420">
+          <caret line="188" column="37" selection-start-line="188" selection-start-column="27" selection-end-line="188" selection-end-column="37" />
+||||||| .r4893
+        <state vertical-scroll-proportion="-0.15151516">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="-21.12">
+          <caret line="48" column="38" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
+          <folding />
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/resource/uploadResource.blade.php">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php">
+=======
+    <entry file="file://$PROJECT_DIR$/public/css/qiyun/research/makeLesson.css">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="721">
+          <caret line="167" column="110" selection-start-line="167" selection-start-column="86" selection-end-line="167" selection-end-column="110" />
+||||||| .r4893
+        <state vertical-scroll-proportion="0.6666667">
+          <caret line="62" column="10" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
+=======
+        <state vertical-scroll-proportion="0.61637425">
+          <caret line="423" column="19" selection-start-line="423" selection-start-column="19" selection-end-line="423" selection-end-column="19" />
+          <folding />
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/public/css/qiyun/microLesson/microLesson.css">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Controller.php">
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/research/makeLesson.blade.php">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="4284">
+          <caret line="204" column="35" selection-start-line="204" selection-start-column="35" selection-end-line="204" selection-end-column="35" />
+          <folding />
+||||||| .r4893
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1453182778927" expanded="false" signature="44:252" placeholder="..." />
+            <marker date="1453182778927" expanded="true" signature="302:369" placeholder="{...}" />
+          </folding>
+=======
+        <state vertical-scroll-proportion="-4.4">
+          <caret line="5" column="93" selection-start-line="5" selection-start-column="83" selection-end-line="5" selection-end-column="93" />
+          <folding>
+            <element signature="e#6897#6917#0#HTML" expanded="true" />
+            <element signature="e#6958#6978#0#HTML" expanded="true" />
+          </folding>
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/microLesson/microLesson.blade.php">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/AdminAuth.php">
+=======
+    <entry file="file://$PROJECT_DIR$/public/js/qiyun/angular/controller/lessonDetailController.js">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="270">
+          <caret line="102" column="73" selection-start-line="102" selection-start-column="64" selection-end-line="102" selection-end-column="73" />
+          <folding />
+||||||| .r4893
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1453182778959" expanded="true" signature="68:328" placeholder="{...}" />
+            <marker date="1453182778959" expanded="true" signature="78:228" placeholder=" Handle an incoming request. ..." />
+            <marker date="1453182778959" expanded="true" signature="282:326" placeholder="{...}" />
+          </folding>
+=======
+        <state vertical-scroll-proportion="0.0">
+          <caret line="233" column="45" selection-start-line="233" selection-start-column="45" selection-end-line="233" selection-end-column="45" />
+          <folding />
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/public/css/qiyun/member/regist.css">
+||||||| .r4893
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/Core_c.php">
+=======
+    <entry file="file://$PROJECT_DIR$/public/image/qiyun/research/lessonDetail/add/d.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/image/qiyun/research/lessonDetail/add/b.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/image/qiyun/research/lessonDetail/add/mbx.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/qiyun/research/researchController.php">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="321">
+          <caret line="164" column="12" selection-start-line="164" selection-start-column="12" selection-end-line="164" selection-end-column="12" />
+          <folding />
+||||||| .r4893
+        <state vertical-scroll-proportion="0.9373695">
+          <caret line="83" column="3" selection-start-line="83" selection-start-column="3" selection-end-line="83" selection-end-column="3" />
+          <folding>
+            <marker date="1452220584000" expanded="true" signature="48:142" placeholder=" Created by typecasting to object. ..." />
+            <marker date="1452220584000" expanded="true" signature="168:292" placeholder=" Interface to detect if a class is traversable using &amp;foreach;. ..." />
+            <marker date="1452220584000" expanded="true" signature="325:434" placeholder=" Interface to create an external Iterator. ..." />
+            <marker date="1452220584000" expanded="true" signature="486:778" placeholder="..." />
+            <marker date="1452220584000" expanded="true" signature="495:740" placeholder=" Retrieve an external iterator ..." />
+            <marker date="1452220584000" expanded="true" signature="784:933" placeholder=" Interface for external iterators or objects that can be iterated ..." />
+            <marker date="1452220584000" expanded="true" signature="976:2140" placeholder="..." />
+            <marker date="1452220584000" expanded="true" signature="985:1146" placeholder=" Return the current element ..." />
+            <marker date="1452220584000" expanded="true" signature="1188:1357" placeholder=" Move forward to next element ..." />
+            <marker date="1452220584000" expanded="true" signature="1396:1582" placeholder=" Return the key of the current element ..." />
+            <marker date="1452220584000" expanded="true" signature="1620:1884" placeholder=" Checks if current position is valid ..." />
+            <marker date="1452220584000" expanded="true" signature="1924:2107" placeholder=" Rewind the Iterator to the first element ..." />
+            <marker date="1452220584000" expanded="true" signature="2146:2257" placeholder=" Interface to provide accessing objects as arrays. ..." />
+            <marker date="1452220584000" expanded="true" signature="2283:3594" placeholder="..." />
+            <marker date="1452220584000" expanded="true" signature="2292:2653" placeholder=" Whether a offset exists ..." />
+            <marker date="1452220584000" expanded="true" signature="2707:2947" placeholder=" Offset to retrieve ..." />
+            <marker date="1452220584000" expanded="true" signature="2998:3283" placeholder=" Offset to set ..." />
+            <marker date="1452220584000" expanded="true" signature="3342:3549" placeholder=" Offset to unset ..." />
+            <marker date="1452220584000" expanded="true" signature="3600:3700" placeholder=" Interface for customized serializing. ..." />
+            <marker date="1452220584000" expanded="true" signature="3727:4268" placeholder="..." />
+            <marker date="1452220584000" expanded="true" signature="3736:3936" placeholder=" String representation of object ..." />
+            <marker date="1452220584000" expanded="true" signature="3980:4219" placeholder=" Constructs the object ..." />
+            <marker date="1452220584000" expanded="true" signature="4275:4480" placeholder=" Throwable is the base interface for any object that can be thrown via a throw statement in PHP 7, ..." />
+            <marker date="1452220584000" expanded="true" signature="4502:6684" placeholder="{...}" />
+            <marker date="1452220584000" expanded="true" signature="4513:4647" placeholder=" Gets the message ..." />
+            <marker date="1452220584000" expanded="true" signature="4692:5035" placeholder=" Gets the exception code ..." />
+            <marker date="1452220584000" expanded="true" signature="5077:5299" placeholder=" Gets the file in which the exception occurred ..." />
+            <marker date="1452220584000" expanded="true" signature="5341:5568" placeholder=" Gets the line on which the object was instantiated ..." />
+            <marker date="1452220584000" expanded="true" signature="5610:5858" placeholder=" Gets the stack trace ..." />
+            <marker date="1452220584000" expanded="true" signature="5901:6093" placeholder=" Gets the stack trace as a string ..." />
+            <marker date="1452220584000" expanded="true" signature="6144:6373" placeholder=" Returns the previous Throwable ..." />
+            <marker date="1452220584000" expanded="true" signature="6419:6646" placeholder=" Gets a string representation of the thrown object ..." />
+            <marker date="1452220584000" expanded="true" signature="6688:6798" placeholder=" Exception is the base class for ..." />
+            <marker date="1452220584000" expanded="true" signature="6839:9738" placeholder="..." />
+            <marker date="1452220584000" expanded="true" signature="6936:7067" placeholder=" Clone the exception ..." />
+            <marker date="1452220584000" expanded="true" signature="7119:7518" placeholder=" Construct the exception. Note: The message is NOT binary safe. ..." />
+            <marker date="1452220584000" expanded="true" signature="7619:7799" placeholder=" Gets the Exception message ..." />
+            <marker date="1452220584000" expanded="true" signature="7853:8173" placeholder=" Gets the Exception code ..." />
+            <marker date="1452220584000" expanded="true" signature="8224:8434" placeholder=" Gets the file in which the exception occurred ..." />
+            <marker date="1452220584000" expanded="true" signature="8485:8692" placeholder=" Gets the line in which the exception occurred ..." />
+            <marker date="1452220584000" expanded="true" signature="8743:8918" placeholder=" Gets the stack trace ..." />
+            <marker date="1452220584000" expanded="true" signature="8970:9188" placeholder=" Returns previous Exception ..." />
+            <marker date="1452220584000" expanded="true" signature="9243:9439" placeholder=" Gets the stack trace as a string ..." />
+            <marker date="1452220584000" expanded="true" signature="9499:9698" placeholder=" String representation of the exception ..." />
+            <marker date="1452220584000" expanded="true" signature="9744:9876" placeholder=" Error is the base class for all internal PHP error exceptions. ..." />
+            <marker date="1452220584000" expanded="true" signature="9913:12113" placeholder="..." />
+            <marker date="1452220584000" expanded="true" signature="9922:10056" placeholder=" Gets the message ..." />
+            <marker date="1452220584000" expanded="true" signature="10091:10103" placeholder="{...}" />
+            <marker date="1452220584000" expanded="true" signature="10112:10455" placeholder=" Gets the exception code ..." />
+            <marker date="1452220584000" expanded="true" signature="10499:10721" placeholder=" Gets the file in which the exception occurred ..." />
+            <marker date="1452220584000" expanded="true" signature="10765:10992" placeholder=" Gets the line on which the object was instantiated ..." />
+            <marker date="1452220584000" expanded="true" signature="11037:11285" placeholder=" Gets the stack trace ..." />
+            <marker date="1452220584000" expanded="true" signature="11329:11521" placeholder=" Gets the stack trace as a string ..." />
+            <marker date="1452220584000" expanded="true" signature="11573:11802" placeholder=" Returns the previous Throwable ..." />
+            <marker date="1452220584000" expanded="true" signature="11848:12075" placeholder=" Gets a string representation of the thrown object ..." />
+            <marker date="1452220584000" expanded="true" signature="12119:12599" placeholder=" There are three scenarios where a TypeError may be thrown. ..." />
+            <marker date="1452220584000" expanded="true" signature="12633:12635" placeholder="..." />
+            <marker date="1452220584000" expanded="true" signature="12641:12819" placeholder=" ParseError is thrown when an error occurs while parsing PHP code, such as when {@see eval()} is called. ..." />
+            <marker date="1452220584000" expanded="true" signature="12854:12856" placeholder="..." />
+            <marker date="1452220584000" expanded="true" signature="12862:13015" placeholder=" AssertionError is thrown when an assertion made via {@see assert()} fails. ..." />
+            <marker date="1452220584000" expanded="true" signature="13054:13056" placeholder="..." />
+            <marker date="1452220584000" expanded="true" signature="13062:13428" placeholder=" ArithmeticError is thrown when an error occurs while performing mathematical operations. ..." />
+            <marker date="1452220584000" expanded="true" signature="13468:13470" placeholder="..." />
+            <marker date="1452220584000" expanded="true" signature="13476:13641" placeholder=" DivisionByZeroError is thrown when an attempt is made to divide a number by zero. ..." />
+            <marker date="1452220584000" expanded="true" signature="13681:13683" placeholder="..." />
+            <marker date="1452220584000" expanded="true" signature="13689:13773" placeholder=" An Error Exception. ..." />
+            <marker date="1452220584000" expanded="true" signature="13816:14826" placeholder="..." />
+            <marker date="1452220584000" expanded="true" signature="13852:14452" placeholder=" Constructs the exception ..." />
+            <marker date="1452220584000" expanded="true" signature="14593:14779" placeholder=" Gets the exception severity ..." />
+            <marker date="1452220584000" expanded="true" signature="14832:15446" placeholder=" Class used to represent anonymous functions. ..." />
+            <marker date="1452220584000" expanded="true" signature="15470:18167" placeholder="..." />
+            <marker date="1452220584000" expanded="true" signature="15479:15727" placeholder=" This method exists only to disallow instantiation of the Closure class. ..." />
+            <marker date="1452220584000" expanded="true" signature="15777:16038" placeholder=" This is for consistency with other classes that implement calling magic, ..." />
+            <marker date="1452220584000" expanded="true" signature="16089:16765" placeholder=" Closure::bindTo � Duplicates the closure with a new bound object and class scope ..." />
+            <marker date="1452220584000" expanded="true" signature="16832:17624" placeholder=" This method is a static version of Closure::bindTo(). ..." />
+            <marker date="1452220584000" expanded="true" signature="17714:18115" placeholder=" Temporarily binds the closure to newthis, and calls it with any given parameters. ..." />
+          </folding>
+=======
+        <state vertical-scroll-proportion="509.76">
+          <caret line="2093" column="9" selection-start-line="2093" selection-start-column="9" selection-end-line="2093" selection-end-column="9" />
+          <folding>
+            <marker date="1462518139522" expanded="true" signature="11776:11863" placeholder="select count... departmenttech" />
+            <marker date="1462518139522" expanded="true" signature="11906:11973" placeholder="select count... lessonsubject" />
+            <marker date="1462518139522" expanded="true" signature="12784:12838" placeholder="select techR... techresearch" />
+            <marker date="1462518139522" expanded="true" signature="13508:13702" placeholder="select id,ev... evaluat" />
+            <marker date="1462518139522" expanded="true" signature="14510:14660" placeholder="select id,cr... department_theme" />
+            <marker date="1462518139522" expanded="true" signature="54774:54924" placeholder="update evalu... " />
+            <marker date="1462518139522" expanded="true" signature="69870:69929" placeholder="select id,ev... evaluatType" />
+            <marker date="1462518139522" expanded="true" signature="70075:70133" placeholder="select id,se... studysection" />
+            <marker date="1462518139522" expanded="true" signature="70283:70341" placeholder="select id,su... studysubject" />
+            <marker date="1462518139522" expanded="true" signature="70498:70556" placeholder="select id,ed... studyedition" />
+            <marker date="1462518139522" expanded="true" signature="70709:70763" placeholder="select id,gr... studygrade" />
+            <marker date="1462518139522" expanded="true" signature="70920:71012" placeholder="select id,ch... chapter" />
+            <marker date="1462518139522" expanded="true" signature="81020:81097" placeholder="select id,ti... department_article" />
+            <marker date="1462518139522" expanded="true" signature="81129:81205" placeholder="select id,ti... department_article" />
+            <marker date="1462518139522" expanded="true" signature="82459:82534" placeholder="select id,ti... department_topic" />
+            <marker date="1462518139522" expanded="true" signature="82567:82641" placeholder="select id,ti... department_topic" />
+          </folding>
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/member/registerpar.blade.php">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/qiyun/admin/users/IndexController.php">
+=======
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/qiyun/research/lessonDetailController.php">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="546">
+          <caret line="131" column="175" selection-start-line="131" selection-start-column="170" selection-end-line="131" selection-end-column="175" />
+          <folding />
+||||||| .r4893
+        <state vertical-scroll-proportion="0.37578288">
+          <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
+          <folding>
+            <marker date="1453454697171" expanded="false" signature="61:206" placeholder="..." />
+            <marker date="1453454697171" expanded="true" signature="248:5040" placeholder="{...}" />
+            <marker date="1453454697171" expanded="true" signature="258:355" placeholder=" Display a listing of the resource. ..." />
+            <marker date="1453454697171" expanded="true" signature="401:579" placeholder="{...}" />
+            <marker date="1453454697171" expanded="true" signature="588:693" placeholder=" Show the form for creating a new resource. ..." />
+            <marker date="1453454697171" expanded="true" signature="725:802" placeholder="{...}" />
+            <marker date="1453454697171" expanded="true" signature="836:1441" placeholder="{...}" />
+            <marker date="1453454697171" expanded="true" signature="1082:1254" placeholder="..." />
+            <marker date="1453454697171" expanded="true" signature="1119:1243" placeholder="..." />
+            <marker date="1453454697171" expanded="true" signature="1137:1229" placeholder="..." />
+            <marker date="1453454697171" expanded="true" signature="1260:1433" placeholder="..." />
+            <marker date="1453454697171" expanded="true" signature="1297:1422" placeholder="..." />
+            <marker date="1453454697171" expanded="true" signature="1315:1408" placeholder="..." />
+            <marker date="1453454697171" expanded="true" signature="1451:1569" placeholder=" Display the specified resource. ..." />
+            <marker date="1453454697171" expanded="true" signature="1601:1759" placeholder="{...}" />
+            <marker date="1453454697171" expanded="true" signature="1768:1886" placeholder=" Show the form for editing the specified resource. ..." />
+            <marker date="1453454697171" expanded="true" signature="1922:2062" placeholder="{...}" />
+            <marker date="1453454697171" expanded="true" signature="2071:2176" placeholder=" Update the specified resource in storage. ..." />
+            <marker date="1453454697171" expanded="true" signature="2211:2961" placeholder="{...}" />
+            <marker date="1453454697171" expanded="true" signature="2601:2773" placeholder="..." />
+            <marker date="1453454697171" expanded="true" signature="2638:2762" placeholder="..." />
+            <marker date="1453454697171" expanded="true" signature="2656:2748" placeholder="..." />
+            <marker date="1453454697171" expanded="true" signature="2779:2952" placeholder="..." />
+            <marker date="1453454697171" expanded="true" signature="2816:2941" placeholder="..." />
+            <marker date="1453454697171" expanded="true" signature="2834:2927" placeholder="..." />
+            <marker date="1453454697171" expanded="true" signature="2970:3083" placeholder=" Remove the specified resource from storage. ..." />
+            <marker date="1453454697171" expanded="true" signature="3115:3605" placeholder="{...}" />
+            <marker date="1453454697171" expanded="true" signature="3247:3419" placeholder="..." />
+            <marker date="1453454697171" expanded="true" signature="3284:3408" placeholder="..." />
+            <marker date="1453454697171" expanded="true" signature="3302:3394" placeholder="..." />
+            <marker date="1453454697171" expanded="true" signature="3425:3598" placeholder="..." />
+            <marker date="1453454697171" expanded="true" signature="3462:3587" placeholder="..." />
+            <marker date="1453454697171" expanded="true" signature="3480:3573" placeholder="..." />
+            <marker date="1453454697171" expanded="true" signature="3614:3730" placeholder=" resetPass the specified resource from storage. ..." />
+            <marker date="1453454697171" expanded="true" signature="3767:3907" placeholder="{...}" />
+            <marker date="1453454697171" expanded="true" signature="3916:4032" placeholder=" resetPass the specified resource from storage. ..." />
+            <marker date="1453454697171" expanded="true" signature="4062:5038" placeholder="{...}" />
+            <marker date="1453454697171" expanded="true" signature="4222:4848" placeholder="..." />
+            <marker date="1453454697171" expanded="true" signature="4431:4631" placeholder="..." />
+            <marker date="1453454697171" expanded="true" signature="4472:4616" placeholder="..." />
+            <marker date="1453454697171" expanded="true" signature="4494:4598" placeholder="..." />
+            <marker date="1453454697171" expanded="true" signature="4637:4838" placeholder="..." />
+            <marker date="1453454697171" expanded="true" signature="4678:4823" placeholder="..." />
+            <marker date="1453454697171" expanded="true" signature="4700:4805" placeholder="..." />
+            <marker date="1453454697171" expanded="true" signature="4854:5030" placeholder="..." />
+            <marker date="1453454697171" expanded="true" signature="4891:5019" placeholder="..." />
+            <marker date="1453454697171" expanded="true" signature="4909:5005" placeholder="..." />
+          </folding>
+=======
+        <state vertical-scroll-proportion="-29.04">
+          <caret line="112" column="35" selection-start-line="112" selection-start-column="35" selection-end-line="112" selection-end-column="35" />
+          <folding>
+            <marker date="1462524134826" expanded="true" signature="9421:9473" placeholder="select id,re... users" />
+            <marker date="1462524134826" expanded="true" signature="10540:10592" placeholder="select id,re... users" />
+            <marker date="1462524134826" expanded="true" signature="12370:12481" placeholder="select id,na... lessonsubject_resource" />
+            <marker date="1462524134826" expanded="true" signature="13070:13156" placeholder="select id,cr... lessonsubject_image" />
+            <marker date="1462524134826" expanded="true" signature="13751:13866" placeholder="select id,de... lessonsubject_video" />
+            <marker date="1462524134826" expanded="true" signature="14485:14563" placeholder="select id,ti... lessonsubject_topic" />
+            <marker date="1462524134826" expanded="true" signature="14596:14673" placeholder="select id,ti... lessonsubject_topic" />
+          </folding>
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/member/registerstu.blade.php">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/config/database.php">
+=======
+    <entry file="file://$PROJECT_DIR$/public/css/qiyun/research/techGroupInfo.css">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="567">
+          <caret line="147" column="175" selection-start-line="147" selection-start-column="175" selection-end-line="147" selection-end-column="175" />
+          <folding />
+||||||| .r4893
+        <state vertical-scroll-proportion="0.32985386">
+          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+          <folding>
+            <marker date="1453452931825" expanded="true" signature="15:4434" placeholder="..." />
+            <marker date="1453452931825" expanded="true" signature="23:442" placeholder="..." />
+            <marker date="1453452931825" expanded="true" signature="486:922" placeholder="..." />
+            <marker date="1453452931825" expanded="true" signature="981:1629" placeholder="..." />
+            <marker date="1453452931825" expanded="true" signature="1655:3333" placeholder="..." />
+            <marker date="1453452931825" expanded="true" signature="1678:1812" placeholder="..." />
+            <marker date="1453452931825" expanded="true" signature="1832:2185" placeholder="..." />
+            <marker date="1453452931825" expanded="true" signature="2199:2595" placeholder="//..." />
+            <marker date="1453452931825" expanded="true" signature="2617:2976" placeholder="..." />
+            <marker date="1453452931825" expanded="true" signature="3001:3325" placeholder="..." />
+            <marker date="1453452931825" expanded="true" signature="3343:3776" placeholder="..." />
+            <marker date="1453452931825" expanded="true" signature="3821:4240" placeholder="..." />
+            <marker date="1453452931825" expanded="true" signature="4260:4430" placeholder="..." />
+            <marker date="1453452931825" expanded="true" signature="4313:4422" placeholder="..." />
+          </folding>
+=======
+        <state vertical-scroll-proportion="-6.9298244">
+          <caret line="159" column="20" selection-start-line="159" selection-start-column="20" selection-end-line="159" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/research/techGroupInfo.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.0">
+          <caret line="176" column="307" selection-start-line="176" selection-start-column="307" selection-end-line="176" selection-end-column="307" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/research/lessonResourseList.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2514093">
+          <caret line="115" column="18" selection-start-line="115" selection-start-column="18" selection-end-line="115" selection-end-column="18" />
+          <folding>
+            <element signature="e#4547#4567#0#HTML" expanded="true" />
+          </folding>
+>>>>>>> .r4948
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/member/register.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="116" column="175" selection-start-line="116" selection-start-column="175" selection-end-line="116" selection-end-column="175" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/research/lessonDetail.blade.php">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="-9108">
+          <caret line="650" column="0" selection-start-line="650" selection-start-column="0" selection-end-line="650" selection-end-column="0" />
+||||||| .r4893
+        <state vertical-scroll-proportion="0.12526096">
+          <caret line="286" column="0" selection-start-line="286" selection-start-column="0" selection-end-line="317" selection-end-column="2" />
+=======
+        <state vertical-scroll-proportion="-17.0">
+          <caret line="224" column="75" selection-start-line="224" selection-start-column="75" selection-end-line="224" selection-end-column="75" />
+>>>>>>> .r4948
+          <folding>
+<<<<<<< .mine
+            <marker date="1462443520024" expanded="false" signature="8:400" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="713:2067" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="774:2066" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="2095:2966" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="2164:2965" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="2631:2715" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="2660:2714" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="2890:2962" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="2994:13656" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="3067:13655" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="13693:15037" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="13770:15036" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="15065:18364" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="15138:18363" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="15315:15441" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="15362:15440" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="18392:19117" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="18457:19116" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="19145:21226" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="19224:21225" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="21256:21406" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="21351:21402" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="21436:24466" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="21509:24465" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="24496:24568" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="24575:24825" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="24965:25037" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="24995:25036" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="25067:30566" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="25171:30566" placeholder="{...}" />
+            <marker date="1462443520024" expanded="true" signature="25181:25358" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="26069:26247" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="27543:27722" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="30597:31361" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="30702:31360" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="31390:33821" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="31495:33820" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="33850:35311" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="33948:35310" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="35341:37480" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="35437:37479" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="37510:40243" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="37608:40242" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="40271:44271" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="40377:44270" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="44303:46289" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="44385:46288" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="46321:49730" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="46437:49729" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="49762:51346" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="49854:51345" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="51374:53962" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="51459:53961" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="53998:65301" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="54070:65300" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="65325:65782" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="65431:65781" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="65806:71393" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="65908:71392" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="71422:78163" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="71518:78162" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="78177:78426" placeholder="..." />
+            <marker date="1462443520024" expanded="true" signature="78510:78689" placeholder="..." />
+||||||| .r4893
+            <marker date="1453462452080" expanded="true" signature="8:400" placeholder="..." />
+            <marker date="1453462452080" expanded="true" signature="610:1092" placeholder="..." />
+            <marker date="1453462452080" expanded="true" signature="669:1092" placeholder="{...}" />
+            <marker date="1453462452080" expanded="true" signature="1123:1634" placeholder="..." />
+            <marker date="1453462452080" expanded="true" signature="1190:1634" placeholder="{...}" />
+            <marker date="1453462452080" expanded="true" signature="1290:1374" placeholder="..." />
+            <marker date="1453462452080" expanded="true" signature="1319:1373" placeholder="..." />
+            <marker date="1453462452080" expanded="true" signature="1402:1486" placeholder="..." />
+            <marker date="1453462452080" expanded="true" signature="1431:1485" placeholder="..." />
+            <marker date="1453462452080" expanded="true" signature="1665:2518" placeholder="..." />
+            <marker date="1453462452080" expanded="true" signature="1736:2518" placeholder="{...}" />
+            <marker date="1453462452080" expanded="true" signature="2553:3632" placeholder="..." />
+            <marker date="1453462452080" expanded="true" signature="2628:3632" placeholder="{...}" />
+            <marker date="1453462452080" expanded="true" signature="3663:4253" placeholder="..." />
+            <marker date="1453462452080" expanded="true" signature="3734:4253" placeholder="{...}" />
+            <marker date="1453462452080" expanded="true" signature="4282:4558" placeholder="..." />
+            <marker date="1453462452080" expanded="true" signature="4359:4558" placeholder="{...}" />
+            <marker date="1453462452080" expanded="true" signature="4592:5038" placeholder="..." />
+            <marker date="1453462452080" expanded="true" signature="4655:5038" placeholder="{...}" />
+            <marker date="1453462452080" expanded="true" signature="5068:5704" placeholder="..." />
+            <marker date="1453462452080" expanded="true" signature="5145:5704" placeholder="{...}" />
+            <marker date="1453462452080" expanded="true" signature="5741:5892" placeholder="..." />
+            <marker date="1453462452080" expanded="true" signature="5818:5892" placeholder="{...}" />
+            <marker date="1453462452080" expanded="true" signature="5836:5888" placeholder="..." />
+            <marker date="1453462452080" expanded="true" signature="5857:5887" placeholder="..." />
+            <marker date="1453462452080" expanded="true" signature="5927:6407" placeholder="..." />
+            <marker date="1453462452080" expanded="true" signature="5998:6407" placeholder="{...}" />
+            <marker date="1453462452080" expanded="true" signature="6441:6513" placeholder="..." />
+            <marker date="1453462452080" expanded="true" signature="6508:6513" placeholder="{...}" />
+            <marker date="1453462452080" expanded="true" signature="6520:6770" placeholder="..." />
+            <marker date="1453462452080" expanded="true" signature="7587:7657" placeholder="..." />
+            <marker date="1453462452080" expanded="true" signature="7608:7656" placeholder="..." />
+            <marker date="1453462452080" expanded="true" signature="7662:8431" placeholder="//..." />
+            <marker date="1453462452080" expanded="true" signature="8458:9130" placeholder="..." />
+            <marker date="1453462452080" expanded="true" signature="8525:9129" placeholder="..." />
+            <marker date="1453462452080" expanded="true" signature="9159:9623" placeholder="..." />
+            <marker date="1453462452080" expanded="true" signature="9233:9622" placeholder="..." />
+=======
+            <element signature="e#12603#12624#0#HTML" expanded="true" />
+            <element signature="e#17001#17020#0#HTML" expanded="true" />
+>>>>>>> .r4948
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/resources/views/errors/500.blade.php">
+||||||| .r4893
+    <entry file="file://$PROJECT_DIR$/vendor/composer/autoload_real.php">
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/perSpace/terPerSpace.blade.php">
+>>>>>>> .r4948
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+||||||| .r4893
+        <state vertical-scroll-proportion="0.12526096">
+          <caret line="4" column="60" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="60" />
+=======
+        <state vertical-scroll-proportion="-28.44">
+          <caret line="783" column="81" selection-start-line="783" selection-start-column="60" selection-end-line="783" selection-end-column="81" />
+>>>>>>> .r4948
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/admin/message.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/errors/404.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="55" column="24" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/qiyun/angular/controller/retrievePasswordController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="113" column="0" selection-start-line="113" selection-start-column="0" selection-end-line="123" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/errors/503.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="79" column="154" selection-start-line="79" selection-start-column="97" selection-end-line="79" selection-end-column="154" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/qiyun/layouts/layoutHome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="33" column="128" selection-start-line="33" selection-start-column="128" selection-end-line="33" selection-end-column="128" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+||||||| .r4893
+=======
+    <entry file="file://$PROJECT_DIR$/public/js/qiyun/angular/controller/teaPerSpaceController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28664497">
+          <caret line="51" column="50" selection-start-line="51" selection-start-column="50" selection-end-line="51" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> .r4948
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
